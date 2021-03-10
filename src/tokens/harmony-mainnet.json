@@ -1,0 +1,58 @@
+[
+  {
+    "chainId": 1666600000,
+    "address": "0x421b372389f89E2Abbf2C91f006Fc04a1f424B2D",
+    "symbol": "1YFL",
+    "name": "YFLink",
+    "decimals": 18,
+    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/tokens/1YFL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb08Bc3c6e2437e7E5d6eB86F6aB48fcDEE068402",
+    "symbol": "1ROT",
+    "name": "RottenToken",
+    "decimals": 18,
+    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/tokens/1ROT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x793DAC3Ec4969A5BEE684BcF4290d52feB8F51b4",
+    "symbol": "SEED",
+    "name": "Sesameseed",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8168/large/Seednetwork.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7fA202fdb3B0eCB975119cc3A895BFB3104aDA68",
+    "symbol": "SEE",
+    "name": "SeeSwap Token",
+    "decimals": 18,
+    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/tokens/SEE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
+    "symbol": "EUSK",
+    "name": "Mintbes Token",
+    "decimals": 18,
+    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/tokens/EUSK.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xBD16b0B2eB520b7Ff4A4156d367Ee359Ac19c531",
+    "symbol": "ARANK",
+    "name": "ARANK Token",
+    "decimals": 18,
+    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/tokens/ARANK.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
+    "symbol": "LMA",
+    "name": "LMA-Art-Gallery",
+    "decimals": 18,
+    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/tokens/LMA.png"
+  }
+]
