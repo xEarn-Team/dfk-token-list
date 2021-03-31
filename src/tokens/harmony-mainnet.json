@@ -9,14 +9,6 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0xb08Bc3c6e2437e7E5d6eB86F6aB48fcDEE068402",
-    "symbol": "1ROT",
-    "name": "RottenToken",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ROT.png"
-  },
-  {
-    "chainId": 1666600000,
     "address": "0x793DAC3Ec4969A5BEE684BcF4290d52feB8F51b4",
     "symbol": "SEED",
     "name": "Sesameseed",

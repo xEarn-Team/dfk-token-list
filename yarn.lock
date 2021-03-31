@@ -3,52 +3,52 @@
 
 
 "@ethersproject/address@^5.0.2":
-  version "5.0.11"
-  resolved "https://registry.yarnpkg.com/@ethersproject/address/-/address-5.0.11.tgz#12022e8c590c33939beb5ab18b401ecf585eac59"
-  integrity sha512-Et4GBdD8/tsBGjCEOKee9upN29qjL5kbRcmJifb4Penmiuh9GARXL2/xpXvEp5EW+EIW/rfCHFJrkYBgoQFQBw==
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/address/-/address-5.1.0.tgz#3854fd7ebcb6af7597de66f847c3345dae735b58"
+  integrity sha512-rfWQR12eHn2cpstCFS4RF7oGjfbkZb0oqep+BfrT+gWEGWG2IowJvIsacPOvzyS1jhNF4MQ4BS59B04Mbovteg==
   dependencies:
-    "@ethersproject/bignumber" "^5.0.13"
-    "@ethersproject/bytes" "^5.0.9"
-    "@ethersproject/keccak256" "^5.0.7"
-    "@ethersproject/logger" "^5.0.8"
-    "@ethersproject/rlp" "^5.0.7"
+    "@ethersproject/bignumber" "^5.1.0"
+    "@ethersproject/bytes" "^5.1.0"
+    "@ethersproject/keccak256" "^5.1.0"
+    "@ethersproject/logger" "^5.1.0"
+    "@ethersproject/rlp" "^5.1.0"
 
-"@ethersproject/bignumber@^5.0.13":
-  version "5.0.15"
-  resolved "https://registry.yarnpkg.com/@ethersproject/bignumber/-/bignumber-5.0.15.tgz#b089b3f1e0381338d764ac1c10512f0c93b184ed"
-  integrity sha512-MTADqnyacvdRwtKh7o9ujwNDSM1SDJjYDMYAzjIgjoi9rh6TY4suMbhCa3i2vh3SUXiXSICyTI8ui+NPdrZ9Lw==
+"@ethersproject/bignumber@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/bignumber/-/bignumber-5.1.0.tgz#966a013a5d871fc03fc67bf33cd8aadae627f0fd"
+  integrity sha512-wUvQlhTjPjFXIdLPOuTrFeQmSa6Wvls1bGXQNQWvB/SEn1NsTCE8PmumIEZxmOPjSHl1eV2uyHP5jBm5Cgj92Q==
   dependencies:
-    "@ethersproject/bytes" "^5.0.9"
-    "@ethersproject/logger" "^5.0.8"
+    "@ethersproject/bytes" "^5.1.0"
+    "@ethersproject/logger" "^5.1.0"
     bn.js "^4.4.0"
 
-"@ethersproject/bytes@^5.0.9":
-  version "5.0.11"
-  resolved "https://registry.yarnpkg.com/@ethersproject/bytes/-/bytes-5.0.11.tgz#21118e75b1d00db068984c15530e316021101276"
-  integrity sha512-D51plLYY5qF05AsoVQwIZVLqlBkaTPVHVP/1WmmBIWyHB0cRW0C9kh0kx5Exo51rB63Hk8PfHxc7SmpoaQFEyg==
+"@ethersproject/bytes@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/bytes/-/bytes-5.1.0.tgz#55dfa9c4c21df1b1b538be3accb50fb76d5facfd"
+  integrity sha512-sGTxb+LVjFxJcJeUswAIK6ncgOrh3D8c192iEJd7mLr95V6du119rRfYT/b87WPkZ5I3gRBUYIYXtdgCWACe8g==
   dependencies:
-    "@ethersproject/logger" "^5.0.8"
+    "@ethersproject/logger" "^5.1.0"
 
-"@ethersproject/keccak256@^5.0.7":
-  version "5.0.9"
-  resolved "https://registry.yarnpkg.com/@ethersproject/keccak256/-/keccak256-5.0.9.tgz#ca0d86e4af56c13b1ef25e533bde3e96d28f647d"
-  integrity sha512-zhdUTj6RGtCJSgU+bDrWF6cGbvW453LoIC1DSNWrTlXzC7WuH4a+EiPrgc7/kNoRxerKuA/cxYlI8GwNtVtDlw==
+"@ethersproject/keccak256@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/keccak256/-/keccak256-5.1.0.tgz#fdcd88fb13bfef4271b225cdd8dec4d315c8e60e"
+  integrity sha512-vrTB1W6AEYoadww5c9UyVJ2YcSiyIUTNDRccZIgwTmFFoSHwBtcvG1hqy9RzJ1T0bMdATbM9Hfx2mJ6H0i7Hig==
   dependencies:
-    "@ethersproject/bytes" "^5.0.9"
+    "@ethersproject/bytes" "^5.1.0"
     js-sha3 "0.5.7"
 
-"@ethersproject/logger@^5.0.8":
-  version "5.0.10"
-  resolved "https://registry.yarnpkg.com/@ethersproject/logger/-/logger-5.0.10.tgz#fd884688b3143253e0356ef92d5f22d109d2e026"
-  integrity sha512-0y2T2NqykDrbPM3Zw9RSbPkDOxwChAL8detXaom76CfYoGxsOnRP/zTX8OUAV+x9LdwzgbWvWmeXrc0M7SuDZw==
+"@ethersproject/logger@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/logger/-/logger-5.1.0.tgz#4cdeeefac029373349d5818f39c31b82cc6d9bbf"
+  integrity sha512-wtUaD1lBX10HBXjjKV9VHCBnTdUaKQnQ2XSET1ezglqLdPdllNOIlLfhyCRqXm5xwcjExVI5ETokOYfjPtaAlw==
 
-"@ethersproject/rlp@^5.0.7":
-  version "5.0.9"
-  resolved "https://registry.yarnpkg.com/@ethersproject/rlp/-/rlp-5.0.9.tgz#da205bf8a34d3c3409eb73ddd237130a4b376aff"
-  integrity sha512-ns1U7ZMVeruUW6JXc4om+1w3w4ynHN/0fpwmeNTsAjwGKoF8SAUgue6ylKpHKWSti2idx7jDxbn8hNNFHk67CA==
+"@ethersproject/rlp@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@ethersproject/rlp/-/rlp-5.1.0.tgz#700f4f071c27fa298d3c1d637485fefe919dd084"
+  integrity sha512-vDTyHIwNPrecy55gKGZ47eJZhBm8LLBxihzi5ou+zrSvYTpkSTWRcKUlXFDFQVwfWB+P5PGyERAdiDEI76clxw==
   dependencies:
-    "@ethersproject/bytes" "^5.0.9"
-    "@ethersproject/logger" "^5.0.8"
+    "@ethersproject/bytes" "^5.1.0"
+    "@ethersproject/logger" "^5.1.0"
 
 "@ungap/promise-all-settled@1.1.2":
   version "1.1.2"
@@ -56,9 +56,9 @@
   integrity sha512-sL/cEvJWAnClXw0wHk85/2L0G6Sj8UB0Ctc1TEMbKSsmpRosqhwj9gWgFRZSrBr2f9tiXISwNhCPmlfqUqyb9Q==
 
 "@uniswap/token-lists@^1.0.0-beta.8":
-  version "1.0.0-beta.19"
-  resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.19.tgz#5256db144fba721a6233f43b92ffb388cbd58327"
-  integrity sha512-19V3KM7DAe40blWW1ApiaSYwqbq0JTKMO3yChGBrXzQBl+BoQZRTNZ4waCyoZ5QM45Q0Mxd6bCn6jXcH9G1kjg==
+  version "1.0.0-beta.21"
+  resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.21.tgz#5a4844236e328d3b0e87161c19edaace669e3e6e"
+  integrity sha512-IQ1YpWKgXIsfYqym9Nl/uaB1t5Wk70pyqJ2W4FmvQmt3FIQz+pHlzlEl91aYloPrlcZaFluE0Jq7gkfYpIjsBw==
 
 ajv@^6.12.3:
   version "6.12.6"
@@ -151,9 +151,9 @@ camelcase@^6.0.0:
   integrity sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg==
 
 chai@^4.2.0:
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/chai/-/chai-4.3.3.tgz#f2b2ad9736999d07a7ff95cf1e7086c43a76f72d"
-  integrity sha512-MPSLOZwxxnA0DhLE84klnGPojWFK5KuhP7/j5dTsxpr2S3XlkqJP5WbyYl1gCTWvG2Z5N+HD4F472WsbEZL6Pw==
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/chai/-/chai-4.3.4.tgz#b55e655b31e1eac7099be4c08c21964fce2e6c49"
+  integrity sha512-yS5H68VYOCtN1cjfwumDSuzn/9c+yza4f3reKXlE5rUg7SFcCEy90gJvydNgOYtblyf4Zi6jIWRnXOgErta0KA==
   dependencies:
     assertion-error "^1.1.0"
     check-error "^1.0.2"
@@ -435,9 +435,9 @@ minimatch@3.0.4, minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 mocha@^8.0.1:
-  version "8.3.1"
-  resolved "https://registry.yarnpkg.com/mocha/-/mocha-8.3.1.tgz#b9eda6da1eb8cb8d29860a9c2205de5b8a076560"
-  integrity sha512-5SBMxANWqOv5bw3Hx+HVgaWlcWcFEQDUdaUAr1AUU+qwtx6cowhn7gEDT/DwQP7uYxnvShdUOVLbTYAHOEGfDQ==
+  version "8.3.2"
+  resolved "https://registry.yarnpkg.com/mocha/-/mocha-8.3.2.tgz#53406f195fa86fbdebe71f8b1c6fb23221d69fcc"
+  integrity sha512-UdmISwr/5w+uXLPKspgoV7/RXZwKRTiTjJ2/AC5ZiEztIoOYdfKb19+9jNmEInzx5pBsCyJQzarAxqIGBNYJhg==
   dependencies:
     "@ungap/promise-all-settled" "1.1.2"
     ansi-colors "4.1.1"
