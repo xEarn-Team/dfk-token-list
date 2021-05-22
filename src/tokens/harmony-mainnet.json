@@ -1,6 +1,14 @@
 [
   {
     "chainId": 1666600000,
+    "address": "0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B",
+    "symbol": "JENN",
+    "name": "TokenJenny",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/shimmyshine/Token-Jenny/main/public/assets/images/jenn-logo-new-transparent-250x250.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x421b372389f89E2Abbf2C91f006Fc04a1f424B2D",
     "symbol": "1YFL",
     "name": "YFLink",
