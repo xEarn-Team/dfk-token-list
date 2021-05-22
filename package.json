@@ -1,6 +1,6 @@
 {
   "name": "@venomswap/community-token-list",
-  "version": "1.4.0",
+  "version": "1.4.5",
   "description": "◦ The Venomswap default token list",
   "main": "build/venomswap-community.tokenlist.json",
   "scripts": {
