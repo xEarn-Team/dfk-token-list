@@ -54,13 +54,5 @@
     "name": "Clays Tipping Service",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xe3e267b18464F3CEE00D2e70E18981648998aE9A",
-    "symbol": "DJJ",
-    "name": "JarJar",
-    "decimals": 16,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/DJJ.png"
   }
 ]
