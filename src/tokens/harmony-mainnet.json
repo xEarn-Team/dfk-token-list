@@ -54,5 +54,13 @@
     "name": "Clays Tipping Service",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3Ec248eD4B69142A40FB2F2b9d990125a830A598",
+    "symbol": "NFT",
+    "name": "CryptoBunny",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hbm2048/nft/master/.github/images/nft-icon.png"
   }
 ]
