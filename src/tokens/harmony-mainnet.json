@@ -1,43 +1,11 @@
 [
   {
     "chainId": 1666600000,
-    "address": "0x421b372389f89E2Abbf2C91f006Fc04a1f424B2D",
-    "symbol": "1YFL",
-    "name": "YFLink",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1YFL.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x793DAC3Ec4969A5BEE684BcF4290d52feB8F51b4",
-    "symbol": "SEED",
-    "name": "Sesameseed",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/8168/large/Seednetwork.jpg"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x7fA202fdb3B0eCB975119cc3A895BFB3104aDA68",
-    "symbol": "SEE",
-    "name": "SeeSwap Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEE.png"
-  },
-  {
-    "chainId": 1666600000,
     "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
     "symbol": "EUSK",
     "name": "Mintbes Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/EUSK.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xBD16b0B2eB520b7Ff4A4156d367Ee359Ac19c531",
-    "symbol": "ARANK",
-    "name": "ARANK Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ARANK.png"
   },
   {
     "chainId": 1666600000,
@@ -61,6 +29,30 @@
     "symbol": "NFT",
     "name": "CryptoBunny",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/hbm2048/nft/master/.github/images/nft-icon.png"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/NFT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9017527236D84F96CF9AE6107629eFDa84B5c964",
+    "symbol": "MUSQ",
+    "name": "MUSIQ",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MUSQ.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7531905C4C80b602CFf46Badc1671FbAD496f043",
+    "symbol": "MCONE",
+    "name": "McOne Coin",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MCONE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5415B30fc46317ef494fa96d755350437aE15ac9",
+    "symbol": "LFGT",
+    "name": "Let's Fucking Go Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
   }
 ]
