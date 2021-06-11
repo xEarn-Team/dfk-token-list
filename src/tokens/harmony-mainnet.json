@@ -71,4 +71,28 @@
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MOONI.png"
   }
+   {
+    "chainId": 1666600000,
+    "address": "0xE59AA7f9e91B4Cc6C25D3542CEcb851e0316138c",
+    "symbol": "YIN",
+    "name": "Yin",
+    "decimals": 18,
+    "logoURI": "https://github.com/freyala/Community-Tokens/blob/main/Yin%20(1).png?raw=true"
+  }
+ {
+    "chainId": 1666600000,
+    "address": "0x340042552D19211795dbe55d84FA2E63bc49B890",
+    "symbol": "YANG",
+    "name": "Yang",
+    "decimals": 18,
+    "logoURI": "https://github.com/freyala/Community-Tokens/blob/main/Yang%20(1).png?raw=true"
+  }
+ {
+    "chainId": 1666600000,
+    "address": "0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
+    "symbol": "KURO",
+    "name": "Kuro Shiba",
+    "decimals": 9,
+    "logoURI": "https://github.com/freyala/Community-Tokens/blob/main/KURO_token_small.png?raw=true"
+  }
 ]
