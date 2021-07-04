@@ -134,5 +134,13 @@
     "name": "Seahorse",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5305D2fcfc9981c4518C498194Df493968D1D822",
+    "symbol": "FRATE",
+    "name": "Fraterium",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
   }
 ]
