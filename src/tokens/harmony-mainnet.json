@@ -142,5 +142,77 @@
     "name": "Fraterium",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
+    "symbol": "hMOCHI",
+    "name": "MochiSwap Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HMOCHI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
+    "symbol": "oSWAP",
+    "name": "OpenSwap Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xfe1b516A7297eb03229A8B5AfAD80703911E81cB",
+    "symbol": "ROY",
+    "name": "Royale",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ROY.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+    "symbol": "XYA",
+    "name": "Freyala",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x491614c6d1A7cc8b0A3Ed0bBdecd35a0110c11e6",
+    "symbol": "GAME",
+    "name": "GameToken",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/GAME.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xDfb01A88D1e6099B42c9Bae38F8070027143b850",
+    "symbol": "CREDIT",
+    "name": "Credit",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CREDIT.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x4970417a897Cc7ae812b9b8Db34bb44833C26739",
+    "symbol": "COINK",
+    "name": "Piggybankone",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COINK.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x6008C8769BFACd92251bA838382e7e5637C7e74D",
+    "symbol": "COSMIC",
+    "name": "Cosmic Coin",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COSMIC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x52274a3aF646153faB00b8605E1F6F7072ce71F3",
+    "symbol": "fRENT",
+    "name": "Fraterium Rent",
+    "decimals": 9,
+    "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
   }
 ]
