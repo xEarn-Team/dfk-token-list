@@ -1,195 +1,51 @@
 [
   {
-    "chainId":1666600000,
-    "address":"0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
-    "symbol":"EUSK",
-    "name":"Mintbes Token",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/EUSK.png"
-  },
+      "chainId": 1666600000,
+      "address": "0x70831eE5F8A0434BD2dDB1e45ED24cBca8B41fec",
+      "symbol": "BABYJEWEL",
+      "name": "BABYJEWEL",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FBABYJEWEL.png?alt=media"
+    },
   {
-    "chainId":1666600000,
-    "address":"0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
-    "symbol":"LMA",
-    "name":"LMA-Art-Gallery",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LMA.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x0a703601f8F641D4578A3d91C443e75F5a47a1A3",
-    "symbol":"CTS",
-    "name":"Clays Tipping Service",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x3Ec248eD4B69142A40FB2F2b9d990125a830A598",
-    "symbol":"NFT",
-    "name":"CryptoBunny",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/NFT.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x9017527236D84F96CF9AE6107629eFDa84B5c964",
-    "symbol":"MUSQ",
-    "name":"MUSIQ",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MUSQ.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x7531905C4C80b602CFf46Badc1671FbAD496f043",
-    "symbol":"MCONE",
-    "name":"McOne Coin",
-    "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MCONE.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x5415B30fc46317ef494fa96d755350437aE15ac9",
-    "symbol":"LFGT",
-    "name":"Let's Fucking Go Token",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x495500b582ab72AD47Eb2D301469CE799BDdF9e4",
-    "symbol":"BOOM",
-    "name":"Boomers",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/BOOM.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0",
-    "symbol":"MOONI",
-    "name":"Moonity",
-    "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MOONI.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0xE59AA7f9e91B4Cc6C25D3542CEcb851e0316138c",
-    "symbol":"YIN",
-    "name":"Yin",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YIN.png"
-  },
-  {
-    "chainId":1666600000,
-    "address":"0x340042552D19211795dbe55d84FA2E63bc49B890",
-    "symbol":"YANG",
-    "name":"Yang",
-    "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YANG.png"
-  },
+      "chainId": 1666600000,
+      "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
+      "symbol": "oSWAP",
+      "name": "OpenSwap Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FOSWAP.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
+      "symbol": "VIPER",
+      "name": "Viper",
+      "decimals": 18,
+      "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+      "symbol": "XYA",
+      "name": "Freyala",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FXYA.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd009b07B4a65CC769379875Edc279961D710362d",
+      "symbol": "RAIN",
+      "name": "Rain Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FRAIN.png?alt=media"
+    },
   {
     "chainId":1666600000,
     "address":"0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
     "symbol":"KURO",
     "name":"Kuro Shiba",
     "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/KURO.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xFd2a8F8cF7CFFeA4a613F1DFf39b22881D4a1f92",
-    "symbol": "1ROT",
-    "name": "RottenToken",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ROT.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xBfD4F1699b83eDBa1106B6E224b7aC599A40be1F",
-    "symbol": "1MAGGOT",
-    "name": "MaggotToken",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MAGGOT.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x01546F85fBB5e116b4a43fC3D1B1213D82aCDA95",
-    "symbol": "1MIL",
-    "name": "ONEMILLION",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x5ed8E6B0a0B72939970d612977F8303F78be446d",
-    "symbol": "CATA",
-    "name": "Catalyst",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CATA.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x54b3cc870576b2059f464929aE52196719631EaC",
-    "symbol": "SEAHORSE",
-    "name": "Seahorse",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x5305D2fcfc9981c4518C498194Df493968D1D822",
-    "symbol": "FRATE",
-    "name": "Fraterium",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
-    "symbol": "hMOCHI",
-    "name": "MochiSwap Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HMOCHI.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
-    "symbol": "oSWAP",
-    "name": "OpenSwap Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xfe1b516A7297eb03229A8B5AfAD80703911E81cB",
-    "symbol": "ROY",
-    "name": "Royale",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ROY.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
-    "symbol": "XYA",
-    "name": "Freyala",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x491614c6d1A7cc8b0A3Ed0bBdecd35a0110c11e6",
-    "symbol": "GAME",
-    "name": "GameToken",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/GAME.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xDfb01A88D1e6099B42c9Bae38F8070027143b850",
-    "symbol": "CREDIT",
-    "name": "Credit",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CREDIT.png"
+    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/KURO.png"
   },
   {
     "chainId": 1666600000,
@@ -197,7 +53,7 @@
     "symbol": "COINK",
     "name": "Piggybankone",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COINK.png"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/COINK.png"
   },
   {
     "chainId": 1666600000,
@@ -205,14 +61,62 @@
     "symbol": "COSMIC",
     "name": "Cosmic Coin",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COSMIC.png"
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/COSMIC.png"
   },
   {
-    "chainId": 1666600000,
-    "address": "0x52274a3aF646153faB00b8605E1F6F7072ce71F3",
-    "symbol": "fRENT",
-    "name": "Fraterium Rent",
-    "decimals": 9,
-    "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
-  }
+      "chainId": 1666600000,
+      "address": "0x3e9D32580B0BF3aE72AFCBEbC68710d2Fd9a18F0",
+      "symbol": "bscCAKE",
+      "name": "PancakeSwap Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FbscCAKE.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xE7e3C4D1cFc722b45A428736845B6AfF862842a1",
+      "symbol": "1WISE",
+      "name": "Wise Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1WISE.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
+      "symbol": "1YFI",
+      "name": "yearn.finance",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1YFI.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+      "symbol": "1SUSHI",
+      "name": "SushiToken",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1SUSHI.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
+      "symbol": "1SNX",
+      "name": "Synthetix Network Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1SNX.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
+      "symbol": "1DSLA",
+      "name": "DSLA",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1DSLA.png?alt=media"
+    },
+  {
+      "chainId": 1666600000,
+      "address": "0x8F0D210bf0b8A3A3E4B1012B21e6974818a35B94",
+      "symbol": "bscWISB",
+      "name": "bscWise Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FWISB.png?alt=media"
+    }
 ]

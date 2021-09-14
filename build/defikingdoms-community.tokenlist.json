@@ -1,0 +1,137 @@
+{
+  "name": "Defi Kingdoms Community",
+  "timestamp": "2021-09-14T22:33:16.750Z",
+  "version": {
+    "major": 2,
+    "minor": 2,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
+  "keywords": [
+    "defikingdoms",
+    "community"
+  ],
+  "tokens": [
+    {
+      "chainId": 1666600000,
+      "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
+      "symbol": "1DSLA",
+      "name": "DSLA",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1DSLA.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
+      "symbol": "1SNX",
+      "name": "Synthetix Network Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1SNX.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+      "symbol": "1SUSHI",
+      "name": "SushiToken",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1SUSHI.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xE7e3C4D1cFc722b45A428736845B6AfF862842a1",
+      "symbol": "1WISE",
+      "name": "Wise Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1WISE.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
+      "symbol": "1YFI",
+      "name": "yearn.finance",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1YFI.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x70831eE5F8A0434BD2dDB1e45ED24cBca8B41fec",
+      "symbol": "BABYJEWEL",
+      "name": "BABYJEWEL",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FBABYJEWEL.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x3e9D32580B0BF3aE72AFCBEbC68710d2Fd9a18F0",
+      "symbol": "bscCAKE",
+      "name": "PancakeSwap Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FbscCAKE.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x8F0D210bf0b8A3A3E4B1012B21e6974818a35B94",
+      "symbol": "bscWISB",
+      "name": "bscWise Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FWISB.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x4970417a897Cc7ae812b9b8Db34bb44833C26739",
+      "symbol": "COINK",
+      "name": "Piggybankone",
+      "decimals": 18,
+      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/COINK.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x6008C8769BFACd92251bA838382e7e5637C7e74D",
+      "symbol": "COSMIC",
+      "name": "Cosmic Coin",
+      "decimals": 9,
+      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/COSMIC.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
+      "symbol": "KURO",
+      "name": "Kuro Shiba",
+      "decimals": 9,
+      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/KURO.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
+      "symbol": "oSWAP",
+      "name": "OpenSwap Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FOSWAP.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd009b07B4a65CC769379875Edc279961D710362d",
+      "symbol": "RAIN",
+      "name": "Rain Token",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FRAIN.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
+      "symbol": "VIPER",
+      "name": "Viper",
+      "decimals": 18,
+      "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+      "symbol": "XYA",
+      "name": "Freyala",
+      "decimals": 18,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FXYA.png?alt=media"
+    }
+  ]
+}
