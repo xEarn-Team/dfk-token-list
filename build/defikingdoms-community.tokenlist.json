@@ -132,6 +132,14 @@
       "name": "Freyala",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FXYA.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+      "symbol": "FOX",
+      "name": "FOX Finance",
+      "decimals": 18,
+      "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
     }
   ]
 }
