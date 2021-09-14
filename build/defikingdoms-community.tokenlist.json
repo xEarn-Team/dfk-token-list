@@ -2,12 +2,12 @@
   "name": "Defi Kingdoms Community",
   "timestamp": "2021-09-14T22:33:16.750Z",
   "version": {
-    "major": 2,
-    "minor": 2,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
+  "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media",
   "keywords": [
     "defikingdoms",
     "community"

@@ -1,6 +1,6 @@
 {
   "name": "@defikingdoms/community-token-list",
-  "version": "2.2.0",
+  "version": "1.0.0",
   "description": "◦ The Defi Kingdoms default token list",
   "main": "build/defikingdoms-community.tokenlist.json",
   "scripts": {
@@ -21,7 +21,7 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "Frisky Fox",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/DefiKingdoms/community-token-list/issues"
