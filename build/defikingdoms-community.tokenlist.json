@@ -1,13 +1,13 @@
 {
-  "name": "DFK Community",
-  "timestamp": "2021-09-14T22:33:16.750Z",
+  "name": "Defi Kingdoms Community",
+  "timestamp": "2021-09-15T01:06:33.988Z",
   "version": {
-    "major": 3,
+    "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media",
+  "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
   "keywords": [
     "defikingdoms",
     "community"
@@ -95,6 +95,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
+      "symbol": "FOX",
+      "name": "FOX Finance",
+      "decimals": 18,
+      "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
       "symbol": "KURO",
       "name": "Kuro Shiba",
@@ -132,14 +140,6 @@
       "name": "Freyala",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FXYA.png?alt=media"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
-      "symbol": "FOX",
-      "name": "FOX Finance",
-      "decimals": 18,
-      "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
     }
   ]
 }

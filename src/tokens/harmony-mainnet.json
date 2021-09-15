@@ -118,5 +118,13 @@
       "name": "bscWise Token",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FWISB.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
+      "symbol": "FOX",
+      "name": "FOX Finance",
+      "decimals": 18,
+      "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
     }
 ]
