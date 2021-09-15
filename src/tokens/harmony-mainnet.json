@@ -45,7 +45,7 @@
     "symbol":"KURO",
     "name":"Kuro Shiba",
     "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/KURO.png"
+    "logoURI":"https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FKURO.png?alt=media"
   },
   {
     "chainId": 1666600000,
@@ -53,7 +53,7 @@
     "symbol": "COINK",
     "name": "Piggybankone",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/COINK.png"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FCOINK.png?alt=media"
   },
   {
     "chainId": 1666600000,
@@ -61,7 +61,7 @@
     "symbol": "COSMIC",
     "name": "Cosmic Coin",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/defikingdoms/tokens/COSMIC.png"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FCOSMIC.png?alt=media"
   },
   {
       "chainId": 1666600000,
