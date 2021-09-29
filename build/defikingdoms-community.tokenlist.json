@@ -1,10 +1,10 @@
 {
   "name": "DFK Community",
-  "timestamp": "2021-09-15T01:14:04.663Z",
+  "timestamp": "2021-09-29T20:37:03.894Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -28,6 +28,14 @@
       "name": "Synthetix Network Token",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1SNX.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x17fDEdda058d43fF1615cdb72a40Ce8704C2479A",
+      "symbol": "1SUPERBID",
+      "name": "SuperBid",
+      "decimals": 18,
+      "logoURI": "https://superbid.io/static/assets/tokenomics/superbid_logo.svg"
     },
     {
       "chainId": 1666600000,
@@ -95,7 +103,7 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
+      "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
       "symbol": "FOX",
       "name": "FOX Finance",
       "decimals": 18,
