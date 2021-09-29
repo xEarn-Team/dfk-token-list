@@ -126,5 +126,13 @@
       "name": "FOX Finance",
       "decimals": 18,
       "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x17fDEdda058d43fF1615cdb72a40Ce8704C2479A",
+      "symbol": "1SUPERBID",
+      "name": "SuperBid",
+      "decimals": 18,
+      "logoURI": "https://superbid.io/static/assets/tokenomics/superbid_logo.svg"
     }
 ]
