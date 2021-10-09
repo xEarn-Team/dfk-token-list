@@ -135,4 +135,12 @@
       "decimals": 18,
       "logoURI": "https://superbid.io/static/assets/tokenomics/superbid_logo.svg"
     }
+    {
+      "chainId": 1666600000,
+      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
+      "symbol": "MIS",
+      "name": "Artemis",
+      "decimals": 18,
+      "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
+    }
 ]
