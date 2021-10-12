@@ -1,10 +1,10 @@
 {
   "name": "DFK Community",
-  "timestamp": "2021-09-29T22:15:04.100Z",
+  "timestamp": "2021-10-12T01:44:24.402Z",
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -116,6 +116,14 @@
       "name": "Kuro Shiba",
       "decimals": 9,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FKURO.png?alt=media"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
+      "symbol": "MIS",
+      "name": "Artemis",
+      "decimals": 18,
+      "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
     },
     {
       "chainId": 1666600000,
