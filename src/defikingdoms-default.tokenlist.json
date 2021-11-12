@@ -52,14 +52,6 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
-      "symbol": "1MATIC",
-      "name": "Matic Token",
-      "decimals": 18,
-      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1MATIC.png?alt=media"
-    },
-    {
-      "chainId": 1666600000,
       "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
       "symbol": "1UNI",
       "name": "Uniswap",
