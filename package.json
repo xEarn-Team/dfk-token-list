@@ -1,32 +1,31 @@
 {
-  "name": "@defikingdoms/community-token-list",
-  "version": "4.2.0",
-  "description": "◦ The Defi Kingdoms default token list",
-  "main": "build/defikingdoms-community.tokenlist.json",
+  "name": "@lattesir/dfk-token-list",
+  "version": "1.0.0",
+  "description": "The Defi Kingdoms token list",
+  "main": "build/dfk.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/defikingdoms-community.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/dfk.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/defikingdoms-community.tokenlist.json"
+    "build/dfk.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DefiKingdoms/community-token-list.git"
+    "url": "git+https://github.com/lattesir/dfk-token-list.git"
   },
   "keywords": [
     "defikingdoms",
-    "community",
     "token",
     "list"
   ],
-  "author": "Frisky Fox",
+  "author": "lattesir",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/DefiKingdoms/community-token-list/issues"
+    "url": "https://github.com/lattesir/dfk-token-list/issues"
   },
-  "homepage": "https://github.com/DefiKingdoms/community-token-list#readme",
+  "homepage": "https://github.com/lattesir/dfk-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

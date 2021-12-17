@@ -1,9 +1,6 @@
-# @DefiKingdoms/defikingdoms-community-token-list
+# @lattesir/dfk-token-list
 
-[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/DefiKingdoms/community-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@DefiKingdoms/community-token-list)](https://unpkg.com/@DefiKingdoms/defikingdoms-community-token-list@latest/)
-
-This NPM module and GitHub repo contains the default token list used in the Uniswap interface.
+This NPM module and GitHub repo contains the common token list used in the Defi Kingdoms.
 
 ## Adding a token
 

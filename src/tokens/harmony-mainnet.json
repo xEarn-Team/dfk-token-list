@@ -1,146 +1,289 @@
 [
   {
     "chainId": 1666600000,
-    "address": "0x70831eE5F8A0434BD2dDB1e45ED24cBca8B41fec",
-    "symbol": "BABYJEWEL",
-    "name": "BABYJEWEL",
+    "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+    "symbol": "JEWEL",
+    "name": "Jewel",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FBABYJEWEL.png?alt=media"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media"
   },
   {
     "chainId": 1666600000,
-    "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
-    "symbol": "oSWAP",
-    "name": "OpenSwap Token",
+    "address": "0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04",
+    "symbol": "DFKTEARS",
+    "name": "Gaia's Tears",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/gaias-tear.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x3a4EDcf3312f44EF027acfd8c21382a5259936e7",
+    "symbol": "DFKGOLD",
+    "name": "Gold",
+    "decimals": 3
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x6B10Ad6E3b99090De20bF9f95F960addC35eF3E2",
+    "symbol": "DFKRCKRT",
+    "name": "Rockroot",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/rockroot.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x78aED65A2Cc40C7D8B0dF1554Da60b38AD351432",
+    "symbol": "DFKBLOATER",
+    "name": "Bloater",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/bloater.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x68EA4640C5ce6cC0c9A1F17B7b882cB1cBEACcd7",
+    "symbol": "DFKDRKWD",
+    "name": "Darkweed",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/darkweed.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xe4Cfee5bF05CeF3418DA74CFB89727D8E4fEE9FA",
+    "symbol": "DFKIRONSCALE",
+    "name": "Ironscale",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/ironscale.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x8Bf4A0888451C6b5412bCaD3D9dA3DCf5c6CA7BE",
+    "symbol": "DFKLANTERNEYE",
+    "name": "Lantern-Eye",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/lanterneye.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xc5891912718ccFFcC9732D1942cCD98d5934C2e1",
+    "symbol": "DFKREDGILL",
+    "name": "Redgill",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/redgill.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x043F9bd9Bb17dFc90dE3D416422695Dd8fa44486",
+    "symbol": "DFKRGWD",
+    "name": "Ragweed",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/ragweed.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x094243DfABfBB3E6F71814618ace53f07362a84c",
+    "symbol": "DFKRDLF",
+    "name": "Redleaf",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/redleaf.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x2493cfDAcc0f9c07240B5B1C4BE08c62b8eEff69",
+    "symbol": "DFKSILVERFIN",
+    "name": "Silverfin",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/silverfin.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x600541aD6Ce0a8b5dae68f086D46361534D20E80",
+    "symbol": "DFKGLDVN",
+    "name": "Goldvein",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/goldvein.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb80A07e13240C31ec6dc0B5D72Af79d461dA3A70",
+    "symbol": "DFKSAILFISH",
+    "name": "Sailfish",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/sailfish.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x372CaF681353758f985597A35266f7b330a2A44D",
+    "symbol": "DFKSHIMMERSKIN",
+    "name": "ShimmerSkin",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shimmerskin.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xCdfFe898E687E941b124dfB7d24983266492eF1d",
+    "symbol": "DFKSWFTHSL",
+    "name": "Swift-Thistle",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/swift-thistle.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x66F5BfD910cd83d3766c4B39d13730C911b2D286",
+    "symbol": "DFKSHVAS",
+    "name": "Shvas rune",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shvas-rune.gif"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+    "symbol": "WONE",
+    "name": "Wrapped ONE",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FOSWAP.png?alt=media"
+    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
-    "symbol": "VIPER",
-    "name": "Viper",
+    "address": "0x58f1b044d8308812881a1433d9Bbeff99975e70C",
+    "symbol": "11INCH",
+    "name": "1INCH Token",
     "decimals": 18,
-    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F11INCH.png?alt=media"
   },
   {
     "chainId": 1666600000,
-    "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
-    "symbol": "XYA",
-    "name": "Freyala",
+    "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
+    "symbol": "1AAVE",
+    "name": "Aave Token",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FXYA.png?alt=media"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1AAVE.png?alt=media"
   },
   {
     "chainId": 1666600000,
-    "address": "0xd009b07B4a65CC769379875Edc279961D710362d",
-    "symbol": "RAIN",
-    "name": "Rain Token",
+    "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+    "symbol": "1DAI",
+    "name": "Dai Stablecoin",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FRAIN.png?alt=media"
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
-    "symbol": "KURO",
-    "name": "Kuro Shiba",
-    "decimals": 9,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FKURO.png?alt=media"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x4970417a897Cc7ae812b9b8Db34bb44833C26739",
-    "symbol": "COINK",
-    "name": "Piggybankone",
+    "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
+    "symbol": "1ETH",
+    "name": "Ether",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FCOINK.png?alt=media"
+    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x6008C8769BFACd92251bA838382e7e5637C7e74D",
-    "symbol": "COSMIC",
-    "name": "Cosmic Coin",
-    "decimals": 9,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FCOSMIC.png?alt=media"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x3e9D32580B0BF3aE72AFCBEbC68710d2Fd9a18F0",
-    "symbol": "bscCAKE",
-    "name": "PancakeSwap Token",
+    "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
+    "symbol": "1UNI",
+    "name": "Uniswap",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FbscCAKE.png?alt=media"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1UNI.png?alt=media"
   },
   {
     "chainId": 1666600000,
-    "address": "0xE7e3C4D1cFc722b45A428736845B6AfF862842a1",
-    "symbol": "1WISE",
-    "name": "Wise Token",
-    "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1WISE.png?alt=media"
+    "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
+    "symbol": "1USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1USDC.png?alt=media"
   },
   {
     "chainId": 1666600000,
-    "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
-    "symbol": "1YFI",
-    "name": "yearn.finance",
-    "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1YFI.png?alt=media"
+    "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
+    "symbol": "1USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
-    "symbol": "1SUSHI",
-    "name": "SushiToken",
-    "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1SUSHI.png?alt=media"
+    "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
+    "symbol": "1WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
-    "symbol": "1SNX",
-    "name": "Synthetix Network Token",
+    "address": "0xb1f6E61E1e113625593a22fa6aa94F8052bc39E0",
+    "symbol": "bscBNB",
+    "name": "BNB Token",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1SNX.png?alt=media"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FBNB.png?alt=media"
   },
   {
     "chainId": 1666600000,
-    "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
-    "symbol": "1DSLA",
-    "name": "DSLA",
+    "address": "0x0aB43550A6915F9f67d0c454C2E90385E6497EaA",
+    "symbol": "bscBUSD",
+    "name": "BUSD Token",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1DSLA.png?alt=media"
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x8F0D210bf0b8A3A3E4B1012B21e6974818a35B94",
-    "symbol": "bscWISB",
-    "name": "bscWise Token",
+    "address": "0x6E7bE5B9B4C9953434CD83950D61408f1cCc3bee",
+    "symbol": "bscMatic",
+    "name": "bscMatic Token",
     "decimals": 18,
-    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FWISB.png?alt=media"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FbscMATIC.png?alt=media"
   },
   {
     "chainId": 1666600000,
-    "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
-    "symbol": "FOX",
-    "name": "FOX Finance",
+    "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+    "symbol": "BUSD",
+    "name": "Binance USD",
     "decimals": 18,
-    "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x17fDEdda058d43fF1615cdb72a40Ce8704C2479A",
-    "symbol": "1SUPERBID",
-    "name": "SuperBid",
+    "address": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
+    "symbol": "LINK",
+    "name": "ChainLink Token",
     "decimals": 18,
-    "logoURI": "https://superbid.io/static/assets/tokenomics/superbid_logo.svg"
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0xd74433b187cf0ba998ad9be3486b929c76815215",
-    "symbol": "MIS",
-    "name": "Artemis",
+    "address": "0x95CE547D730519A90dEF30d647F37D9E5359B6Ae",
+    "symbol": "LUNA",
+    "name": "Wrapped LUNA Token",
     "decimals": 18,
-    "logoURI": "https://user-images.githubusercontent.com/90807212/136670698-9295534d-504a-4c00-96b6-10b7cc6eac19.png"
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FLUNA.png?alt=media"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+    "symbol": "UST",
+    "name": "Wrapped UST Token",
+    "decimals": 18,
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FUST.png?alt=media"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x735aBE48e8782948a37C7765ECb76b98CdE97B0F",
+    "symbol": "FTM",
+    "name": "Fantom",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=014"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=014"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+    "symbol": "WMATIC",
+    "name": "Wrapped Matic",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=014"
   }
 ]

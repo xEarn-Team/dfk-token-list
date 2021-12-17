@@ -5,7 +5,7 @@ const harmony_testnet = require("./tokens/harmony-testnet.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "DFK Community",
+    name: "DFK",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
