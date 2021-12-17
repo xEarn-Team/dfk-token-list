@@ -11,6 +11,9 @@
   "files": [
     "build/dfk.tokenlist.json"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lattesir/dfk-token-list.git"
