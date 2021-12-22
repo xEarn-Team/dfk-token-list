@@ -32,6 +32,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x6e1bC01Cc52D165B357c42042cF608159A2B81c1",
+    "symbol": "DFKAMBRTFY",
+    "name": "Ambertaffy",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/ambertaffy.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x78aED65A2Cc40C7D8B0dF1554Da60b38AD351432",
     "symbol": "DFKBLOATER",
     "name": "Bloater",
