@@ -144,6 +144,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x95d02C1Dc58F05A015275eB49E107137D9Ee81Dc",
+    "symbol": "DFKGREGG",
+    "name": "Grey Egg",
+    "decimals": 0,
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-grey.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
     "symbol": "WONE",
     "name": "Wrapped ONE",
