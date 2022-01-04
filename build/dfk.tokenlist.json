@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2021-12-24T07:36:02.651Z",
+  "timestamp": "2022-01-04T09:17:13.279Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -303,6 +303,13 @@
       "name": "Gaia's Tears",
       "decimals": 0,
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/gaias-tear.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x3dB1fd0Ad479A46216919758144FD15A21C3e93c",
+      "symbol": "DFKYELOWEGG",
+      "name": "Yellow Pet Egg",
+      "decimals": 0
     },
     {
       "chainId": 1666600000,

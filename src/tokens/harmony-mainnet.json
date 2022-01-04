@@ -175,6 +175,13 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x3dB1fd0Ad479A46216919758144FD15A21C3e93c",
+    "symbol": "DFKYELOWEGG",
+    "name": "Yellow Pet Egg",
+    "decimals": 0
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xc0214b37FCD01511E6283Af5423CF24C96BB9808",
     "symbol": "DFKMILKWEED",
     "name": "Milkweed",
