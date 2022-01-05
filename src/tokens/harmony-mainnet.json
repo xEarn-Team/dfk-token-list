@@ -20,7 +20,8 @@
     "address": "0x3a4EDcf3312f44EF027acfd8c21382a5259936e7",
     "symbol": "DFKGOLD",
     "name": "Gold",
-    "decimals": 3
+    "decimals": 3,
+    "logoURI": "https://user-images.githubusercontent.com/261672/148153375-9e743be8-06f5-4853-8b6b-7259a1d627aa.png"
   },
   {
     "chainId": 1666600000,
