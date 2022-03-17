@@ -357,5 +357,29 @@
     "name": "Wrapped Matic",
     "decimals": 18,
     "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=014"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x959ba19508827d1ed2333b1b503bd5ab006c710e",
+    "symbol": "DFKSTMNPTN",
+    "name": "Stamina Vial",
+    "decimals": 0,
+    "logoURI": "https://beta.defikingdoms.com/static/media/stamina-potion.2ec4fd96.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x2789f04d22a845dc854145d3c289240517f2bcf0",
+    "symbol": "DFKHLTHPTN",
+    "name": "Health Vial",
+    "decimals": 0,
+    "logoURI": "https://beta.defikingdoms.com/static/media/health-potion.08520fa1.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x19b020001ab0c12ffa93e1fdef90c7c37c8c71ef",
+    "symbol": "DFKMNPTN",
+    "name": "Mana Vial",
+    "decimals": 0,
+    "logoURI": "https://beta.defikingdoms.com/static/media/mana-potion.b2618256.png"
   }
 ]
