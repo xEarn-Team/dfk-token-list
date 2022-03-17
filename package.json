@@ -1,6 +1,6 @@
 {
   "name": "@lattesir/dfk-token-list",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The Defi Kingdoms token list",
   "main": "build/dfk.tokenlist.json",
   "scripts": {

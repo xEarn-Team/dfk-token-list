@@ -360,7 +360,7 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x959ba19508827d1ed2333b1b503bd5ab006c710e",
+    "address": "0x959ba19508827d1ed2333B1b503Bd5ab006C710e",
     "symbol": "DFKSTMNPTN",
     "name": "Stamina Vial",
     "decimals": 0,
@@ -368,7 +368,7 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x2789f04d22a845dc854145d3c289240517f2bcf0",
+    "address": "0x2789F04d22a845dC854145d3c289240517f2BcF0",
     "symbol": "DFKHLTHPTN",
     "name": "Health Vial",
     "decimals": 0,
@@ -376,7 +376,7 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0x19b020001ab0c12ffa93e1fdef90c7c37c8c71ef",
+    "address": "0x19b020001AB0C12Ffa93e1FDeF90c7C37C8C71ef",
     "symbol": "DFKMNPTN",
     "name": "Mana Vial",
     "decimals": 0,

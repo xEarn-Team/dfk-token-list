@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2022-02-11T02:33:12.605Z",
+  "timestamp": "2022-03-17T03:56:43.275Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -198,6 +198,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x2789F04d22a845dC854145d3c289240517f2BcF0",
+      "symbol": "DFKHLTHPTN",
+      "name": "Health Vial",
+      "decimals": 0,
+      "logoURI": "https://beta.defikingdoms.com/static/media/health-potion.08520fa1.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0xe4Cfee5bF05CeF3418DA74CFB89727D8E4fEE9FA",
       "symbol": "DFKIRONSCALE",
       "name": "Ironscale",
@@ -219,6 +227,14 @@
       "name": "Milkweed",
       "decimals": 0,
       "logoURI": "https://user-images.githubusercontent.com/261672/153324535-29ac114f-2683-46bf-8825-f245e56d3888.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x19b020001AB0C12Ffa93e1FDeF90c7C37C8C71ef",
+      "symbol": "DFKMNPTN",
+      "name": "Mana Vial",
+      "decimals": 0,
+      "logoURI": "https://beta.defikingdoms.com/static/media/mana-potion.b2618256.png"
     },
     {
       "chainId": 1666600000,
@@ -291,6 +307,14 @@
       "name": "SpiderFruit",
       "decimals": 0,
       "logoURI": "https://user-images.githubusercontent.com/261672/153324634-69a45fbf-7e59-4ded-9cda-fa84e6307d36.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x959ba19508827d1ed2333B1b503Bd5ab006C710e",
+      "symbol": "DFKSTMNPTN",
+      "name": "Stamina Vial",
+      "decimals": 0,
+      "logoURI": "https://beta.defikingdoms.com/static/media/stamina-potion.2ec4fd96.png"
     },
     {
       "chainId": 1666600000,
