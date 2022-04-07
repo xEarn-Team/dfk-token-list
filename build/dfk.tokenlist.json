@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2022-03-28T08:52:42.308Z",
+  "timestamp": "2022-04-07T02:29:16.036Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -715,7 +715,7 @@
       "symbol": "DFKYELOWEGG",
       "name": "Yellow Pet Egg",
       "decimals": 0,
-      "logoURI": "https://user-images.githubusercontent.com/261672/150264037-ebb1163f-3ffd-4644-b5ed-5a3f5c552a3d.jpg"
+      "logoURI": "https://cdn.discordapp.com/emojis/926938656554516491.webp?size=44&quality=lossless"
     },
     {
       "chainId": 1666600000,
