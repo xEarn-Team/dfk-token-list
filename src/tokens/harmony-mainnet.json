@@ -155,7 +155,7 @@
     "chainId": 1666600000,
     "address": "0x9678518e04Fe02FB30b55e2D0e554E26306d0892",
     "symbol": "DFKBLUEEGG",
-    "name": "Blue Pet Egg",
+    "name": "Blue Egg",
     "decimals": 0,
     "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-blue.png"
   },
@@ -163,7 +163,7 @@
     "chainId": 1666600000,
     "address": "0x6d605303e9Ac53C59A3Da1ecE36C9660c7A71da5",
     "symbol": "DFKGREENEGG",
-    "name": "Green Pet Egg",
+    "name": "Green Egg",
     "decimals": 0,
     "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-green.png"
   },
@@ -179,7 +179,7 @@
     "chainId": 1666600000,
     "address": "0x3dB1fd0Ad479A46216919758144FD15A21C3e93c",
     "symbol": "DFKYELOWEGG",
-    "name": "Yellow Pet Egg",
+    "name": "Yellow Egg",
     "decimals": 0,
     "logoURI": "https://cdn.discordapp.com/emojis/926938656554516491.webp?size=44&quality=lossless"
   },
