@@ -5,7 +5,7 @@ This NPM module and GitHub repo contains the common token list used in the Defi 
 ## Adding a token
 
 1. edit `src/tokens/harmony-mainnet.json`
-2. run `npm run prepublish`
+2. run `npm run prepublishOnly`
 3. increment version number in `package.json`
 4. run `npm publish`
 5. commit to github
