@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2022-04-14T04:29:07.146Z",
+  "timestamp": "2022-04-14T13:48:33.480Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 12
+    "patch": 13
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -196,7 +196,8 @@
       "symbol": "DFKDRKWD",
       "name": "Darkweed",
       "decimals": 0,
-      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/darkweed.png"
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/darkweed.png",
+      "description": "DeFi Kingdoms in-game asset, which could be used to craft Stamina Vial. A root, always found in dark places, that can deliver others from darkness."
     },
     {
       "chainId": 1666600000,
@@ -284,7 +285,8 @@
       "symbol": "DFKGOLD",
       "name": "Gold",
       "decimals": 3,
-      "logoURI": "https://user-images.githubusercontent.com/261672/148153375-9e743be8-06f5-4853-8b6b-7259a1d627aa.png"
+      "logoURI": "https://user-images.githubusercontent.com/261672/148153375-9e743be8-06f5-4853-8b6b-7259a1d627aa.png",
+      "description": "DeFi Kingdoms in-game asset, which could be used to craft Stamina Vial. A truly astounding item."
     },
     {
       "chainId": 1666600000,
@@ -535,7 +537,8 @@
       "symbol": "DFKMILKWEED",
       "name": "Milkweed",
       "decimals": 0,
-      "logoURI": "https://user-images.githubusercontent.com/261672/153324535-29ac114f-2683-46bf-8825-f245e56d3888.png"
+      "logoURI": "https://user-images.githubusercontent.com/261672/153324535-29ac114f-2683-46bf-8825-f245e56d3888.png",
+      "description": "DeFi Kingdoms in-game asset, which could be used to craft Stamina Vial. Pure white, like its namesake. Feeder of butterflies and provider of magic resistance."
     },
     {
       "chainId": 1666600000,
@@ -599,7 +602,8 @@
       "symbol": "DFKSHIMMERSKIN",
       "name": "ShimmerSkin",
       "decimals": 0,
-      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shimmerskin.png"
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shimmerskin.png",
+      "description": "DeFi Kingdoms in-game asset, which could be used to craft Stamina Vial. The iridescent beauty of its scales hints at great power."
     },
     {
       "chainId": 1666600000,
@@ -624,7 +628,8 @@
       "symbol": "DFKSPIDRFRT",
       "name": "SpiderFruit",
       "decimals": 0,
-      "logoURI": "https://user-images.githubusercontent.com/261672/153324634-69a45fbf-7e59-4ded-9cda-fa84e6307d36.png"
+      "logoURI": "https://user-images.githubusercontent.com/261672/153324634-69a45fbf-7e59-4ded-9cda-fa84e6307d36.png",
+      "description": "DeFi Kingdoms in-game asset, which could be used to craft Stamina Vial. Might look like poison, but it can actually save you from it."
     },
     {
       "chainId": 1666600000,
@@ -648,7 +653,8 @@
       "symbol": "DFKSWFTHSL",
       "name": "Swift-Thistle",
       "decimals": 0,
-      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/swift-thistle.png"
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/swift-thistle.png",
+      "description": "DeFi Kingdoms in-game asset, which could be used to craft Stamina Vial. The purple flowers are known to enhance speed when used correctly, hence the name."
     },
     {
       "chainId": 1666600000,
@@ -672,7 +678,8 @@
       "symbol": "DFKTEARS",
       "name": "Gaia's Tears",
       "decimals": 0,
-      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/gaias-tear.png"
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/gaias-tear.png",
+      "description": "DeFi Kingdoms in-game asset, which could be used to craft Stamina Vial & Summon heroes. A crystal that, when attuned properly, can summon heroes from faraway lands."
     },
     {
       "chainId": 1666600000,
