@@ -1,4 +1,4 @@
-# @lattesir/dfk-token-list
+# @bitcap/dfk-token-list
 
 This NPM module and GitHub repo contains the common token list used in the Defi Kingdoms.
 
