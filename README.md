@@ -4,7 +4,11 @@ This NPM module and GitHub repo contains the common token list used in the Defi 
 
 ## Adding a token
 
-To add a token to the community list, submit a PR that modifies harmony-mainnet.json to include your token.
+1. edit `src/tokens/harmony-mainnet.json`
+2. run `npm run prepublish`
+3. increment version number in `package.json`
+4. run `npm publish`
+5. commit to github
 
 ### Disclaimer
 
