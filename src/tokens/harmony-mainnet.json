@@ -141,7 +141,8 @@
     "symbol": "DFKSHVAS",
     "name": "Shvas rune",
     "decimals": 0,
-    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shvas-rune.gif"
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shvas-rune.gif",
+    "description": "Shvas rune is in-game asset of DeFi Kingdoms. It could be used to level up heroes."
   },
   {
     "chainId": 1666600000,
@@ -149,7 +150,8 @@
     "symbol": "DFKGREGG",
     "name": "Grey Egg",
     "decimals": 0,
-    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-grey.png"
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-grey.png",
+    "description": "Grey Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
   },
   {
     "chainId": 1666600000,
@@ -157,7 +159,8 @@
     "symbol": "DFKBLUEEGG",
     "name": "Blue Egg",
     "decimals": 0,
-    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-blue.png"
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-blue.png",
+    "description": "Blue Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
   },
   {
     "chainId": 1666600000,
@@ -165,7 +168,8 @@
     "symbol": "DFKGREENEGG",
     "name": "Green Egg",
     "decimals": 0,
-    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-green.png"
+    "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/pet-egg-green.png",
+    "description": "Green Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
   },
   {
     "chainId": 1666600000,
@@ -173,7 +177,8 @@
     "symbol": "DFKGOLDEGG",
     "name": "Golden Egg",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926937960753033268.webp?size=44&quality=lossless"
+    "logoURI": "https://cdn.discordapp.com/emojis/926937960753033268.webp?size=44&quality=lossless",
+    "description": "Golden Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
   },
   {
     "chainId": 1666600000,
@@ -181,7 +186,8 @@
     "symbol": "DFKYELOWEGG",
     "name": "Yellow Egg",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926938656554516491.webp?size=44&quality=lossless"
+    "logoURI": "https://cdn.discordapp.com/emojis/926938656554516491.webp?size=44&quality=lossless",
+    "description": "Yellow Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
   },
   {
     "chainId": 1666600000,
