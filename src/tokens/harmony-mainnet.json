@@ -772,5 +772,14 @@
     "name": "Chaos Stone",
     "decimals": 0,
     "logoURI": "https://cdn.discordapp.com/emojis/954554494723698798.gif?size=44&quality=lossless"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x909EF175d58d0e17d3Ceb005EeCF24C1E5C6F390",
+    "symbol": "DFKETRNLSTY",
+    "name": "Eternal Story Pages",
+    "decimals": 0,
+    "itemType": 2,
+    "logoURI": "https://cdn.discordapp.com/emojis/967231187636588574.webp?size=44&quality=lossless"
   }
 ]
