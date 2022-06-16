@@ -378,7 +378,7 @@
     "symbol": "DFKSTMNPTN",
     "name": "Stamina Vial",
     "decimals": 0,
-    "logoURI": "https://beta.defikingdoms.com/static/media/stamina-potion.2ec4fd96.png"
+    "logoURI": "https://cdn.discordapp.com/emojis/935306868430110740.webp"
   },
   {
     "chainId": 1666600000,
@@ -386,7 +386,7 @@
     "symbol": "DFKHLTHPTN",
     "name": "Health Vial",
     "decimals": 0,
-    "logoURI": "https://beta.defikingdoms.com/static/media/health-potion.08520fa1.png"
+    "logoURI": "https://cdn.discordapp.com/emojis/926968100434366536.webp"
   },
   {
     "chainId": 1666600000,
@@ -394,7 +394,7 @@
     "symbol": "DFKMNPTN",
     "name": "Mana Vial",
     "decimals": 0,
-    "logoURI": "https://beta.defikingdoms.com/static/media/mana-potion.b2618256.png"
+    "logoURI": "https://cdn.discordapp.com/emojis/926968101164163083.webp"
   },
 
   {
