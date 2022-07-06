@@ -781,5 +781,13 @@
     "decimals": 0,
     "itemType": 2,
     "logoURI": "https://cdn.discordapp.com/emojis/967231187636588574.webp?size=44&quality=lossless"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0405f1b828C7C9462877cC70A9f266887FF55adA",
+    "symbol": "DFKRFTKT",
+    "name": "Raffle Ticket",
+    "decimals": 0,
+    "logoURI": "https://defi-kingdoms.b-cdn.net/art-assets/items/raffle-ticket.png"
   }
 ]
