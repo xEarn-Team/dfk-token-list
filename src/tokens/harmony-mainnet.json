@@ -182,7 +182,7 @@
     "symbol": "DFKGOLDEGG",
     "name": "Golden Egg",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926937960753033268.gif?size=100",
+    "logoURI": "https://cdn.discordapp.com/emojis/926937960753033268.webp?size=100",
     "description": "Golden Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
   },
   {
@@ -191,7 +191,7 @@
     "symbol": "DFKYELOWEGG",
     "name": "Yellow Egg",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926938656554516491.gif?size=100",
+    "logoURI": "https://cdn.discordapp.com/emojis/926938656554516491.webp?size=100",
     "description": "Yellow Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
   },
   {
@@ -378,7 +378,7 @@
     "symbol": "DFKSTMNPTN",
     "name": "Stamina Vial",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/935306868430110740.gif"
+    "logoURI": "https://cdn.discordapp.com/emojis/935306868430110740.webp"
   },
   {
     "chainId": 1666600000,
@@ -386,7 +386,7 @@
     "symbol": "DFKHLTHPTN",
     "name": "Health Vial",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926968100434366536.gif"
+    "logoURI": "https://cdn.discordapp.com/emojis/926968100434366536.webp"
   },
   {
     "chainId": 1666600000,
@@ -394,7 +394,7 @@
     "symbol": "DFKMNPTN",
     "name": "Mana Vial",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926968101164163083.gif"
+    "logoURI": "https://cdn.discordapp.com/emojis/926968101164163083.webp"
   },
   {
     "chainId": 1666600000,
@@ -402,7 +402,7 @@
     "symbol": "DFKFHLTHPTN",
     "name": "Full Health Potion",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/954554494505590856.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/954554494505590856.webp?size=100"
   },
   {
     "chainId": 1666600000,
@@ -410,7 +410,7 @@
     "symbol": "DFKFMNPTN",
     "name": "Full Mana Potion",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/954554495134748682.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/954554495134748682.webp?size=100"
   },
   {
     "chainId": 1666600000,
@@ -418,7 +418,7 @@
     "symbol": "DFKANTPSN",
     "name": "Anti-Poison Potion",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926968099465490462.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/926968099465490462.webp?size=100"
   },
   {
     "chainId": 1666600000,
@@ -426,7 +426,7 @@
     "symbol": "DFKANTBLND",
     "name": "Anti-blinding Potion",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/926968098085543947.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/926968098085543947.webp?size=100"
   },
   {
     "chainId": 1666600000,
@@ -434,7 +434,7 @@
     "symbol": "DFKMGCRSPTN",
     "name": "Magic Resistance Potion",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/954554495155712040.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/954554495155712040.webp?size=100"
   },
   {
     "chainId": 1666600000,
@@ -442,7 +442,7 @@
     "symbol": "DFKTFNSPTN",
     "name": "Toughness Potion",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/954554495176695808.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/954554495176695808.webp?size=100"
   },
   {
     "chainId": 1666600000,
@@ -450,7 +450,7 @@
     "symbol": "DFKSWFTPTN",
     "name": "Swiftness Potion",
     "decimals": 0,
-    "logoURI": "https://cdn.discordapp.com/emojis/954554495231205406.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/954554495231205406.webp?size=100"
   },
   {
     "chainId": 1666600000,
@@ -779,7 +779,7 @@
     "name": "Eternal Story Pages",
     "decimals": 0,
     "itemType": 2,
-    "logoURI": "https://cdn.discordapp.com/emojis/967231187636588574.gif?size=100"
+    "logoURI": "https://cdn.discordapp.com/emojis/967231187636588574.webp?size=100"
   },
   {
     "chainId": 1666600000,
