@@ -14,7 +14,7 @@ describe('buildList', () => {
     const map = {}
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.address}`
-      expect(typeof map[key]).to.equal('undefined')
+      expect(typeof map[key]).to.equal('undefined', `duplicate addresses: ${token.address}`)
       map[key] = true
     }
   })
@@ -23,7 +23,7 @@ describe('buildList', () => {
     const map = {}
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.symbol.toLowerCase()}`
-      expect(typeof map[key]).to.equal('undefined')
+      expect(typeof map[key]).to.equal('undefined', `duplicate symbol: ${token.symbol}`)
       map[key] = true
     }
   })
@@ -42,7 +42,7 @@ describe('buildList', () => {
 
   it('all addresses are valid and checksummed', () => {
     for (let token of defaultTokenList.tokens) {
-      expect(getAddress(token.address)).to.eq(token.address)
+      expect(getAddress(token.address)).to.eq(token.address, `invalid address: ${token.address}`)
     }
   })
 
