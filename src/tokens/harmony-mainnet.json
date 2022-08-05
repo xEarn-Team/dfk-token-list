@@ -1,6 +1,14 @@
 [
   {
     "chainId": 1666600000,
+    "address": "0xA9cE83507D872C5e1273E745aBcfDa849DAA654F",
+    "symbol": "xJEWEL",
+    "name": "xJEWEL",
+    "decimals": 18,
+    "logoURI": "https://images-ext-1.discordapp.net/external/_eXsOjF3RcrrCb4B0KuR165z26VSlXcdT5S-8vCCHmE/https/cdn-longterm.mee6.xyz/plugins/embeds/images/861728723991527464/17ef071acc0c1432dfbbcdaf1102a76c4900922050689629110838c1e409a637.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
     "symbol": "JEWEL",
     "name": "Jewel",
