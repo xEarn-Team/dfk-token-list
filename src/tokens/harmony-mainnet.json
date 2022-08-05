@@ -783,6 +783,15 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x5F753dcDf9b1AD9AabC1346614D1f4746fd6Ce5C",
+    "symbol": "DFKHERO",
+    "name": "DFK Hero",
+    "decimals": 0,
+    "itemType": 1,
+    "logoURI": "https://defikingdoms.com/img/tutorial/nolan_idle.gif"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x0405f1b828C7C9462877cC70A9f266887FF55adA",
     "symbol": "DFKRFTKT",
     "name": "Raffle Ticket",
