@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2022-08-06T18:44:03.087Z",
+  "timestamp": "2022-08-06T19:13:06.151Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 22
+    "patch": 23
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -725,7 +725,7 @@
       "name": "DFK Pet",
       "decimals": 0,
       "itemType": 1,
-      "logoURI": "https://i0.wp.com/dfkeggspert.com/wp-content/uploads/2022/05/Fawn-Blue.gif"
+      "logoURI": "https://i0.wp.com/dfkeggspert.com/wp-content/uploads/2022/05/Direwolf-Golden.gif"
     },
     {
       "chainId": 1666600000,
