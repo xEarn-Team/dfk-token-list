@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2022-08-05T10:26:34.660Z",
+  "timestamp": "2022-08-06T18:44:03.087Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 21
+    "patch": 22
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -717,6 +717,15 @@
       "name": "Moksha Rune",
       "decimals": 0,
       "logoURI": "https://cdn.discordapp.com/emojis/954554495126355978.gif?size=100"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xAC9AFb5900C8A27B766bCad3A37423DC0F4C22d3",
+      "symbol": "DFKPET",
+      "name": "DFK Pet",
+      "decimals": 0,
+      "itemType": 1,
+      "logoURI": "https://i0.wp.com/dfkeggspert.com/wp-content/uploads/2022/05/Fawn-Blue.gif"
     },
     {
       "chainId": 1666600000,

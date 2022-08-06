@@ -800,6 +800,15 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0xAC9AFb5900C8A27B766bCad3A37423DC0F4C22d3",
+    "symbol": "DFKPET",
+    "name": "DFK Pet",
+    "decimals": 0,
+    "itemType": 1,
+    "logoURI": "https://i0.wp.com/dfkeggspert.com/wp-content/uploads/2022/05/Fawn-Blue.gif"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x0405f1b828C7C9462877cC70A9f266887FF55adA",
     "symbol": "DFKRFTKT",
     "name": "Raffle Ticket",
