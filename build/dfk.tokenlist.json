@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2022-08-06T19:13:06.151Z",
+  "timestamp": "2022-08-07T13:56:55.319Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 23
+    "patch": 24
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -969,7 +969,7 @@
       "chainId": 1666600000,
       "address": "0xA9cE83507D872C5e1273E745aBcfDa849DAA654F",
       "symbol": "xJEWEL",
-      "name": "xJEWEL",
+      "name": "xJewel",
       "decimals": 18,
       "logoURI": "https://images-ext-1.discordapp.net/external/_eXsOjF3RcrrCb4B0KuR165z26VSlXcdT5S-8vCCHmE/https/cdn-longterm.mee6.xyz/plugins/embeds/images/861728723991527464/17ef071acc0c1432dfbbcdaf1102a76c4900922050689629110838c1e409a637.png"
     }

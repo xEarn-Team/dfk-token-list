@@ -1,6 +1,6 @@
 {
   "name": "@bitcap/dfk-token-list",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "The Defi Kingdoms token list",
   "main": "build/dfk.tokenlist.json",
   "scripts": {
@@ -36,8 +36,5 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2"
-  },
-  "dependencies": {
-    "@bitcap/dfk-token-list": "1.0.22"
   }
 }
