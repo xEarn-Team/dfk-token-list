@@ -1,6 +1,6 @@
 {
   "name": "@bitcap/dfk-token-list",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "The Defi Kingdoms token list",
   "main": "build/dfk.tokenlist.json",
   "scripts": {

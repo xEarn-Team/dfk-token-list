@@ -72,6 +72,71 @@
   },
   {
     "chainId": 53935,
+    "address": "0x3bcb9A3DaB194C6D8D44B424AF383E7Db51C82BD",
+    "symbol": "DFKFBLOATER",
+    "name": "Frost Bloater",
+    "decimals": 0,
+    "logoURI": "https://defi-kingdoms.b-cdn.net/art-assets/items/frost-bloater.png"
+  },
+  {
+    "chainId": 53935,
+    "address": "0xe7a1B580942148451E47b92e95aEB8d31B0acA37",
+    "symbol": "DFKFROSTDRM",
+    "name": "Frost Drum",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/995161204823703613.webp?size=44&quality=lossless"
+  },
+  {
+    "chainId": 53935,
+    "address": "0xBcdD90034eB73e7Aec2598ea9082d381a285f63b",
+    "symbol": "DFKKNAPROOT",
+    "name": "Knaproot",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/995161208510488638.webp?size=44&quality=lossless"
+  },
+  {
+    "chainId": 53935,
+    "address": "0x80A42Dc2909C0873294c5E359e8DF49cf21c74E4",
+    "symbol": "DFKSHAGCAP",
+    "name": "Shaggy Caps",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/995161211069014056.webp?size=44&quality=lossless"
+  },
+  {
+    "chainId": 53935,
+    "address": "0xc6030Afa09EDec1fd8e63a1dE10fC00E0146DaF3",
+    "symbol": "DFKSKNSHADE",
+    "name": "Skunk Shade",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/995161212813840385.webp?size=44&quality=lossless"
+  },
+  {
+    "chainId": 53935,
+    "address": "0xE7CB27ad646C49dC1671Cb9207176D864922C431",
+    "symbol": "DFKSPCKLTL",
+    "name": "Speckle Tail",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/995161215095541780.webp?size=44&quality=lossless"
+  },
+  {
+    "chainId": 53935,
+    "address": "0x60A3810a3963f23Fa70591435bbe93BF8786E202",
+    "symbol": "DFKKINGPNCR",
+    "name": "King Pincer",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/995161207172497498.webp?size=44&quality=lossless"
+  },
+
+  {
+    "chainId": 53935,
+    "address": "0x6513757978E89e822772c16B60AE033781A29A4F",
+    "symbol": "DFKTHREEL",
+    "name": "Three Eyed Eel",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/995161217108820041.webp?size=44&quality=lossless"
+  },
+  {
+    "chainId": 53935,
     "address": "0xd44ee492889C078934662cfeEc790883DCe245f3",
     "symbol": "DFKSHIMMERSKIN",
     "name": "ShimmerSkin",
