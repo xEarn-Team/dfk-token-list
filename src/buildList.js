@@ -2,6 +2,7 @@ const { version } = require("../package.json");
 const harmony_mainnet = require("./tokens/harmony-mainnet.json");
 const harmony_testnet = require("./tokens/harmony-testnet.json");
 const dfk_chain = require("./tokens/dfk-chain.json");
+const dlaytn_chain = require("./tokens/klaytn-mainnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -17,7 +18,7 @@ module.exports = function buildList() {
     logoURI:
       "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
     keywords: ["defikingdoms", "community"],
-    tokens: [...harmony_mainnet, ...harmony_testnet, ...dfk_chain]
+    tokens: [...harmony_mainnet, ...harmony_testnet, ...dfk_chain, ...dlaytn_chain]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
