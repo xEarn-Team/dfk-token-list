@@ -107,7 +107,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/896230622190776340.gif?size=44&quality=lossless",
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x75E8D8676d774C9429FbB148b30E304b5542aC3d",
       "symbol": "DFKAMBRTFY",
       "name": "Ambertaffy",
@@ -115,7 +115,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/ambertaffy.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xDbd4fA2D2C62C6c60957a126970e412Ed6AC1bD6",
       "symbol": "DFKBLUESTEM",
       "name": "Blue Stem",
@@ -123,7 +123,7 @@
       "logoURI": "https://user-images.githubusercontent.com/261672/153324379-b9e775b5-239b-4253-9f12-02a0b0ea6903.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xEDFBe9EEf42FfAf8909EC9Ce0d79850BA0C232FE",
       "symbol": "DFKDRKWD",
       "name": "Darkweed",
@@ -131,15 +131,15 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/darkweed.png",
     },
     {
-      "chainId": 1666600000,
-      "address": "0xEDFBe9EEf42FfAf8909EC9Ce0d79850BA0C232FE",
+      "chainId": 8217,
+      "address": "0xD69542aBE74413242e387Efb9e55BE6A4863ca10",
       "symbol": "DFKFROSTDRM",
       "name": "Frost Drum",
       "decimals": 0,
       "logoURI": "https://cdn.discordapp.com/emojis/995161204823703613.webp?size=44&quality=lossless",
     },
     {
-        "chainId": 1666600000,
+        "chainId": 8217,
         "address": "0xeaF833A0Ae97897f6F69a728C9c17916296cecCA",
         "symbol": "DFKGLDVN",
         "name": "Goldvein",
@@ -147,7 +147,7 @@
         "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/goldvein.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xE408814828f2b51649473c1a05B861495516B920",
       "symbol": "DFKMILKWEED",
       "name": "Milkweed",
@@ -155,7 +155,7 @@
       "logoURI": "https://user-images.githubusercontent.com/261672/153324535-29ac114f-2683-46bf-8825-f245e56d3888.png",
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xFceFA4Abcb18a7053393526f75Ad33fac5F25dc9",
       "symbol": "DFKKNAPROOT",
       "name": "Knaproot",
@@ -163,7 +163,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/995161208510488638.webp?size=44&quality=lossless",
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x4cD7025BD6e1b77105b90928362e6715101d0b5a",
       "symbol": "DFKRGWD",
       "name": "Ragweed",
@@ -171,7 +171,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/ragweed.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xadbF23Fe3B47857614940dF31B28179685aE9B0c",
       "symbol": "DFKRDLF",
       "name": "Redleaf",
@@ -179,7 +179,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/redleaf.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xf2D479DaEdE7F9e270a90615F8b1C52F3C487bC7",
       "symbol": "DFKRCKRT",
       "name": "Rockroot",
@@ -187,7 +187,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/rockroot.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xCe370D379f0CCf746B3426E3BD3923f3aDF0DC1a",
       "symbol": "DFKSHAGCAP",
       "name": "Shaggy Caps",
@@ -195,7 +195,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/995161211069014056.webp?size=44&quality=lossless"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x874FC0015ece1d77ba3D5668F16c46ba72913239",
       "symbol": "DFKSKNSHADE",
       "name": "Skunk Shade",
@@ -203,7 +203,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/995161212813840385.webp?size=44&quality=lossless"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x08D93Db24B783F8eBb68D7604bF358F5027330A6",
       "symbol": "DFKSPIDRFRT",
       "name": "SpiderFruit",
@@ -211,7 +211,7 @@
       "logoURI": "https://user-images.githubusercontent.com/261672/153324634-69a45fbf-7e59-4ded-9cda-fa84e6307d36.png",
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xCd2192521BD8e33559b0CA24f3260fE6A26C28e4",
       "symbol": "DFKSWFTHSL",
       "name": "Swift-Thistle",
@@ -219,7 +219,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/swift-thistle.png",
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x72F860bF73ffa3FC42B97BbcF43Ae80280CFcdc3",
       "symbol": "DFKBLOATER",
       "name": "Bloater",
@@ -235,7 +235,7 @@
       "logoURI": "https://defi-kingdoms.b-cdn.net/art-assets/items/frost-bloater.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xBcdD90034eB73e7Aec2598ea9082d381a285f63b",
       "symbol": "DFKIRONSCALE",
       "name": "Ironscale",
@@ -243,7 +243,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/ironscale.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xB4A516bf36e44c0CE9E3E6769D3BA87341Cd9959",
       "symbol": "DFKKINGPNCR",
       "name": "King Pincer",
@@ -251,7 +251,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/995161207172497498.webp?size=44&quality=lossless"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x80A42Dc2909C0873294c5E359e8DF49cf21c74E4",
       "symbol": "DFKLANTERNEYE",
       "name": "Lantern-Eye",
@@ -259,7 +259,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/lanterneye.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x8D2bC53106063A37bb3DDFCa8CfC1D262a9BDCeB",
       "symbol": "DFKREDGILL",
       "name": "Redgill",
@@ -267,7 +267,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/redgill.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xc6030Afa09EDec1fd8e63a1dE10fC00E0146DaF3",
       "symbol": "DFKSAILFISH",
       "name": "Sailfish",
@@ -275,7 +275,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/sailfish.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xa61Bac689AD6867a605633520D70C49e1dCce853",
       "symbol": "DFKSHIMMERSKIN",
       "name": "ShimmerSkin",
@@ -283,7 +283,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shimmerskin.png",
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x7E121418cC5080C96d967cf6A033B0E541935097",
       "symbol": "DFKSILVERFIN",
       "name": "Silverfin",
@@ -291,7 +291,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/silverfin.png"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x48d9fC80A47cee2d52DE950898Bc6aBF54223F81",
       "symbol": "DFKSPCKLTL",
       "name": "Speckle Tail",
@@ -299,7 +299,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/995161215095541780.webp?size=44&quality=lossless"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x7E1298EBF3a8B259561df6E797Ff8561756E50EA",
       "symbol": "DFKTHREEL",
       "name": "Three Eyed Eel",
@@ -307,7 +307,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/995161217108820041.webp?size=44&quality=lossless"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x907a98319AEB249e387246637149f4B2e7D21dB7",
       "symbol": "DFKSHVAS",
       "name": "Shvas rune",
@@ -316,7 +316,7 @@
       "description": "Shvas rune is in-game asset of DeFi Kingdoms. It could be used to level up heroes."
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xd0223143057Eb44065e789b202E03A5869a6006C",
       "symbol": "DFKMOKSHA",
       "name": "Moksha Rune",
@@ -324,7 +324,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495126355978.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x29ADd7D022c591D56eb4aFd262075dA900C67ab1",
       "symbol": "DFKBLUEEGG",
       "name": "Blue Egg",
@@ -333,7 +333,7 @@
       "description": "Blue Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xb1Ec534fBBfEBd4563A4B0055E744286CE490f26",
       "symbol": "DFKGREENEGG",
       "name": "Green Egg",
@@ -342,7 +342,7 @@
       "description": "Green Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xfd29ebdE0dd1331C19BBF54518df94b442ACb38C",
       "symbol": "DFKGREGG",
       "name": "Grey Egg",
@@ -351,7 +351,7 @@
       "description": "Grey Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x0A73aF98781bad9BCb80A71241F129EA877eF1b7",
       "symbol": "DFKYELOWEGG",
       "name": "Yellow Egg",
@@ -360,7 +360,7 @@
       "description": "Yellow Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xc9731BE04F217543E3010cCbf903E858EFde840f",
       "symbol": "DFKGOLDEGG",
       "name": "Golden Egg",
@@ -369,7 +369,7 @@
       "description": "Golden Egg is in-game asset of DeFi Kingdoms. It could be used to hatch pet, which is useful in PvP combats."
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xa27C1429a676db902B9f0360686eDbB57d0A7B01",
       "symbol": "DFKHLTHPTN",
       "name": "Health Vial",
@@ -377,7 +377,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/926968100434366536.webp"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xf710244462431b9962706B46826AFB3B38376c7b",
       "symbol": "DFKFHLTHPTN",
       "name": "Full Health Potion",
@@ -385,7 +385,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494505590856.webp?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x8639d64A2088500EC4f20fB5C41A995fE4f1d85a",
       "symbol": "DFKMNPTN",
       "name": "Mana Vial",
@@ -393,7 +393,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/926968101164163083.webp"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x108D31E23bC6540878E6532F3376b3EC982e1C58",
       "symbol": "DFKFMNPTN",
       "name": "Full Mana Potion",
@@ -401,7 +401,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495134748682.webp?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x4546DBaAb48Bf1BF2ad7B56d04952d946Ab6e2a7",
       "symbol": "DFKSTMNPTN",
       "name": "Stamina Vial",
@@ -409,7 +409,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/935306868430110740.webp"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x5FB537aF1d929af7BDD7935C289158c940782ed6",
       "symbol": "DFKANTBLND",
       "name": "Anti-blinding Potion",
@@ -417,7 +417,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/926968098085543947.webp?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xE34a733fA92B41A1CA4241da9D2d5834Cc8D1011",
       "symbol": "DFKANTPSN",
       "name": "Anti-Poison Potion",
@@ -425,7 +425,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/926968099465490462.webp?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x9c8A0C6a7ad8Be153773070D434CDbeA5176D2ff",
       "symbol": "DFKMGCRSPTN",
       "name": "Magic Resistance Potion",
@@ -433,7 +433,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495155712040.webp?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xcb7aA7cA9357DAF9F2b78D262A4f89cDfE5abC70",
       "symbol": "DFKSWFTPTN",
       "name": "Swiftness Potion",
@@ -441,7 +441,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495231205406.webp?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xf757a7F4ffF29e7F7b4aCCe6Ffb04E59e91EFDA8",
       "symbol": "DFKTFNSPTN",
       "name": "Toughness Potion",
@@ -449,7 +449,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495176695808.webp?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x80Ab38fc9fA0a484b98d5600147e7C695627747D",
       "symbol": "DFKLMGHTCR",
       "name": "Lesser Might Crystal",
@@ -457,7 +457,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495071830057.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xa3907dEA6f16f1918B4BcDd178c2928c7e6A571D",
       "symbol": "DFKMGHTCR",
       "name": "Might Crystal",
@@ -465,7 +465,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495130538074.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x1F93421DaE2f8de79C3Fd197a227ec5EE3Eef71b",
       "symbol": "DFKMGHTCR",
       "name": "Greater Might Crystal",
@@ -473,7 +473,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495130538074.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xC3B36a02f360c3d18042bF3533be602cb775007A",
       "symbol": "DFKLFINCR",
       "name": "Lesser Finesse Crystal",
@@ -481,7 +481,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494828548146.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x15E77beB33D3B09aB7da529daB1E556b955fECf6",
       "symbol": "DFKFINCR",
       "name": "Finesse Crystal",
@@ -489,7 +489,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494367182892.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x616df872971A3f31dffC9a2B55BF55C760B966bF",
       "symbol": "DFKGFINCR",
       "name": "Greater Finesse Crystal",
@@ -497,7 +497,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331574804490.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x32Cbbfd741EB7634818aa2e3E8502367cB6602BE",
       "symbol": "DFKLSWFTCR",
       "name": "Lesser Swiftness Crystal",
@@ -505,7 +505,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494941802567.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xc2Ff16F357b51E070c977501563A01a70F3B7BF5",
       "symbol": "DFKSWFTCR",
       "name": "Swiftness Crystal",
@@ -513,7 +513,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495117983744.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xa5CC44e60F5a898e5c776952E66D1c9905077608",
       "symbol": "DFKGSWFTCR",
       "name": "Greater Swiftness Crystal",
@@ -521,7 +521,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331977449472.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x6C7AF7483b050a00b5fbC4241eD06944c5f0bD77",
       "symbol": "DFKLVGRCR",
       "name": "Lesser Vigor Crystal",
@@ -529,7 +529,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495050850315.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x14a9D5a75799E4C6B4BfA65C8293a75e02DD5339",
       "symbol": "DFKVGRCR",
       "name": "Vigor Crystal",
@@ -537,7 +537,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495164092476.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x73286f76E05aAa7A73F896DE0Ebc745021Cb50F2",
       "symbol": "DFKGVGRCR",
       "name": "Greater Vigor Crystal",
@@ -545,7 +545,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975332069707776.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x1E672a8385b39E13267efA2Fb39f574a2a23AE9F",
       "symbol": "DFKLFRTICR",
       "name": "Lesser Fortitude Crystal",
@@ -553,7 +553,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494740467804.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xA844059503289B781854aEdcA04E5bB13290bd86",
       "symbol": "DFKFRTICR",
       "name": "Fortitude Crystal",
@@ -561,39 +561,39 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494774046770.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x147b3263F1C4ca729B13Ca1D2A7148c32Aa1d8d0",
       "symbol": "DFKGFRTICR",
       "name": "Greater Fortitude Crystal",
       "decimals": 0,
       "logoURI": "https://cdn.discordapp.com/emojis/973975331704815668.gif?size=100"
     },
+    // {
+    //   "chainId": 8217,
+    //   "address": "0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf",
+    //   "symbol": "DFKLATONECR",
+    //   "name": "Lesser Atonement Crystal",
+    //   "decimals": 0,
+    //   "logoURI": "https://cdn.discordapp.com/emojis/954554494878896218.gif?size=100"
+    // },
+    // {
+    //   "chainId": 8217,
+    //   "address": "0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d",
+    //   "symbol": "DFKATONECR",
+    //   "name": "Atonement Crystal",
+    //   "decimals": 0,
+    //   "logoURI": "https://cdn.discordapp.com/emojis/954554494585299065.gif?size=100"
+    // },
+    // {
+    //   "chainId": 8217,
+    //   "address": "0x17f3B5240C4A71a3BBF379710f6fA66B9b51f224",
+    //   "symbol": "DFKGATONECR",
+    //   "name": "Greater Atonement Crystal",
+    //   "decimals": 0,
+    //   "logoURI": "https://cdn.discordapp.com/emojis/954554494572691478.gif?size=100"
+    // },
     {
-      "chainId": 1666600000,
-      "address": "0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf",
-      "symbol": "DFKLATONECR",
-      "name": "Lesser Atonement Crystal",
-      "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/emojis/954554494878896218.gif?size=100"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d",
-      "symbol": "DFKATONECR",
-      "name": "Atonement Crystal",
-      "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/emojis/954554494585299065.gif?size=100"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0x17f3B5240C4A71a3BBF379710f6fA66B9b51f224",
-      "symbol": "DFKGATONECR",
-      "name": "Greater Atonement Crystal",
-      "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/emojis/954554494572691478.gif?size=100"
-    },
-    {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xf15035b5eD13Feb18f63D829ABc1c3139041e7C2",
       "symbol": "DFKLWITCR",
       "name": "Lesser Wit Crystal",
@@ -601,7 +601,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495004717057.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xf30214D43E55BE1cbaC712b49A75d4D3220302a7",
       "symbol": "DFKWITCR",
       "name": "Wit Crystal",
@@ -609,7 +609,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495256395776.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x5F8A485ed5B4B13c1fc3c1C7fe82164E8e534060",
       "symbol": "DFKGWITCR",
       "name": "Greater Wit Crystal",
@@ -617,7 +617,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331566407702.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x5f967E325E91977B42D2591Fc2f57da75Ee4490B",
       "symbol": "DFKLINSCR",
       "name": "Lesser Insight Crystal",
@@ -625,7 +625,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494946009088.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xAd7fBD9EDDE05227964104Bb23Ff8d171D4c90C8",
       "symbol": "DFKINSCR",
       "name": "Insight Crystal",
@@ -633,7 +633,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494946013224.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x17bb680872D7631e3056136d7e15eC5f6570976a",
       "symbol": "DFKGINSCR",
       "name": "Greater Insight Crystal",
@@ -641,7 +641,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331511861280.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x8baD15B5C531d119b328d0F716a6B9D90CeDa88A",
       "symbol": "DFKLFRTUCR",
       "name": "Lesser Fortune Crystal",
@@ -649,7 +649,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494639808524.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x02d27BC195E58498C687A82d96188A8EF282a1e1",
       "symbol": "DFKFRTUCR",
       "name": "Fortune Crystal",
@@ -657,7 +657,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494820171796.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x0d2ea025007995e9Bb1815864CD4e7B98B47DF7c",
       "symbol": "DFKGFRTUCR",
       "name": "Greater Fortune Crystal",
@@ -665,7 +665,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331570593903.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x537E800b8fD22Dc76A438Af8b9923986A5487853",
       "symbol": "DFKLCHSCR",
       "name": "Lesser Chaos Crystal",
@@ -673,7 +673,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494832762900.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xE078C782fF0cC1789D0608834A3cD5076896e4FC",
       "symbol": "DFKCHSCR",
       "name": "Chaos Crystal",
@@ -681,7 +681,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494639824966.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x9e185426354AA53aAC07De79c2fa1e0B50490fdd",
       "symbol": "DFKGCHSCR",
       "name": "Greater Chaos Crystal",
@@ -689,7 +689,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331671253072.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xbb8ac0BB95E433204217b0478B3f6d815EcB2d8C",
       "symbol": "DFKLMGHTST",
       "name": "Lesser Might Stone",
@@ -697,7 +697,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495029886986.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x532bce28c28616552a4BcDdb5D4B4126Dea35f66",
       "symbol": "DFKMGHTST",
       "name": "Might Stone",
@@ -705,7 +705,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494836965387.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x434619b18466dEAA26475f97467754135aB8f3AF",
       "symbol": "DFKGMGHTST",
       "name": "Greater Might Stone",
@@ -713,7 +713,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975334070419477.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x784bd01e3882b80aa837f6A3041Cd386eC54a501",
       "symbol": "DFKLFINST",
       "name": "Lesser Finesse Stone",
@@ -721,7 +721,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495013122098.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x31eb3b534E29D10Db08109A1fa50ccB081d10816",
       "symbol": "DFKFINST",
       "name": "Finesse Stone",
@@ -729,7 +729,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494774042715.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xFE4ac39174C2637537711f0cb3112EaD47E77D37",
       "symbol": "DFKGFINST",
       "name": "Greater Finesse Stone",
@@ -737,7 +737,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331750965338.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xAd51199B453075C73FA106aFcAAD59f705EF7872",
       "symbol": "DFKLSWFTST",
       "name": "Lesser Swiftness Stone",
@@ -745,7 +745,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494983753829.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xf200597430eAc3e22B4566D1BCd70A3b63804B24",
       "symbol": "DFKSWFTST",
       "name": "Swiftness Stone",
@@ -753,7 +753,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495143120936.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x954296fd7563f737BD502e3DdbAdA3f5223F92f1",
       "symbol": "DFKGSWFTST",
       "name": "Greater Swiftness Stone",
@@ -761,7 +761,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331834822726.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x50F683acefA41b226CEfAdc0dd2ea6fFBfED56A0",
       "symbol": "DFKLVGRST",
       "name": "Lesser Vigor Stone",
@@ -769,7 +769,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494639804457.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xA0c89fB3cbb115cf86EdcB4319578312D026A07a",
       "symbol": "DFKVGRST",
       "name": "Vigor Stone",
@@ -777,7 +777,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495218642944.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x9A587bBD01D5B2745b20A89ddd9B83268129fEda",
       "symbol": "DFKGVGRST",
       "name": "Greater Vigor Stone",
@@ -785,7 +785,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331855826965.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xBC5248B4f50f4c7D2F9A67Be1f1d4b8be44ffc75",
       "symbol": "DFKLFRTIST",
       "name": "Lesser Fortitude Stone",
@@ -793,7 +793,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494962774026.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x254787d3b87d8c21A300Ab8D5A06C01426CE40c0",
       "symbol": "DFKFRTIST",
       "name": "Fortitude Stone",
@@ -801,7 +801,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494602068039.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x3D0EA055081e62e40257fde3A2036a557af6Ff77",
       "symbol": "DFKGFRTIST",
       "name": "Greater Fortitude Stone",
@@ -809,7 +809,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331511877723.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x5903F478e456DD4Ce5387caBE3984DfEf93D0A46",
       "symbol": "DFKLWITST",
       "name": "Lesser Wit Stone",
@@ -817,7 +817,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495059243008.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x3BaEFAfF21Fa2F06Ad3899903B7A899a91B5915A",
       "symbol": "DFKWITST",
       "name": "Wit Stone",
@@ -825,7 +825,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554495147331624.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x3C0B9C87b1747C47D0B73910f995A08D75D81Af1",
       "symbol": "DFKGWITST",
       "name": "Greater Wit Stone",
@@ -833,7 +833,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331855814656.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xfC66cF68505F8E95C52C4F7f84936436DBd52e9B",
       "symbol": "DFKLINSST",
       "name": "Lesser Insight Stone",
@@ -841,7 +841,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494551724121.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x22A92428605a3B5b66695A60e96b683E98a9a035",
       "symbol": "DFKINSST",
       "name": "Insight Stone",
@@ -849,7 +849,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494920847380.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xF861104131825320C3d0D9B7bd373Ea0549f0587",
       "symbol": "DFKGINSST",
       "name": "Greater Insight Stone",
@@ -857,7 +857,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331922931742.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x816E22125021530535364390a3E2fA305a436247",
       "symbol": "DFKLFRTUST",
       "name": "Lesser Fortune Stone",
@@ -865,7 +865,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494501400597.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0xf0cBbd41652d9A93A899f070669186F0c8475F7D",
       "symbol": "DFKFRTUST",
       "name": "Fortune Stone",
@@ -873,7 +873,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494925037608.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x91aced74b0CEE03EF8902f13E97F6e308941E6Bd",
       "symbol": "DFKGFRTUST",
       "name": "Greater Fortune Stone",
@@ -881,7 +881,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331683844128.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x38bDed7C399bbD214a19De35260766b130cAFd2F",
       "symbol": "DFKLCHSST",
       "name": "Lesser Chaos Stone",
@@ -889,7 +889,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494551748659.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x880cb941AAb394775f54F2b6468035bbdD0B81dF",
       "symbol": "DFKCHSST",
       "name": "Chaos Stone",
@@ -897,7 +897,7 @@
       "logoURI": "https://cdn.discordapp.com/emojis/954554494723698798.gif?size=100"
     },
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x932049DF7f09DeE7cF5Aefe03f373810EBbdDDc7",
       "symbol": "DFKGCHSST",
       "name": "Greater Chaos Stone",
@@ -905,20 +905,12 @@
       "logoURI": "https://cdn.discordapp.com/emojis/973975331767730276.gif?size=100"
     }
     {
-      "chainId": 1666600000,
+      "chainId": 8217,
       "address": "0x26bdcB310313eFf8D580e43762e2020B23f3e728",
       "symbol": "DFKETRNLSTY",
       "name": "Eternal Story Pages",
       "decimals": 0,
       "itemType": 2,
       "logoURI": "https://cdn.discordapp.com/emojis/967231187636588574.webp?size=100"
-    },
-    // {
-    //   "chainId": 1666600000,
-    //   "address": "0x0405f1b828C7C9462877cC70A9f266887FF55adA",
-    //   "symbol": "DFKRFTKT",
-    //   "name": "Raffle Ticket",
-    //   "decimals": 0,
-    //   "logoURI": "https://defi-kingdoms.b-cdn.net/art-assets/items/raffle-ticket.png"
-    // },
+    }
   ]
