@@ -52,7 +52,7 @@
     },
     {
       "chainId": 8217,
-      "address": "0xcd8fe44a29db9159db36f96570d7a4d91986f528",
+      "address": "0xCd8fE44A29Db9159dB36f96570d7A4d91986f528",
       "symbol": "AVAX",
       "name": "AVAX",
       "decimals": 18,
@@ -68,7 +68,7 @@
     },
     {
       "chainId": 8217,
-      "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+      "address": "0xceE8FAF64bB97a73bb51E115Aa89C17FfA8dD167",
       "symbol": "oUSDT",
       "name": "oUSDT",
       "decimals": 6,
@@ -76,7 +76,7 @@
     },
     {
       "chainId": 8217,
-      "address": "0x34d21b1e550d73cee41151c77f3c73359527a396",
+      "address": "0x34d21b1e550D73cee41151c77F3c73359527a396",
       "symbol": "oETH",
       "name": "oETH",
       "decimals": 18,
@@ -84,7 +84,7 @@
     },
     {
       "chainId": 8217,
-      "address": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
+      "address": "0x16D0e1fBD024c600Ca0380A4C5D57Ee7a2eCBf9c",
       "symbol": "oWBTC",
       "name": "oWBTC",
       "decimals": 18,
@@ -96,7 +96,7 @@
       "symbol": "DFKGOLD",
       "name": "Gold",
       "decimals": 3,
-      "logoURI": "https://cdn.discordapp.com/emojis/925743004218712094.webp?size=44&quality=lossless",
+      "logoURI": "https://cdn.discordapp.com/emojis/925743004218712094.webp?size=44&quality=lossless"
     },
     {
       "chainId": 8217,
@@ -104,7 +104,7 @@
       "symbol": "DFKTEARS",
       "name": "Gaia's Tears",
       "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/emojis/896230622190776340.gif?size=44&quality=lossless",
+      "logoURI": "https://cdn.discordapp.com/emojis/896230622190776340.gif?size=44&quality=lossless"
     },
     {
       "chainId": 8217,
@@ -128,7 +128,7 @@
       "symbol": "DFKDRKWD",
       "name": "Darkweed",
       "decimals": 0,
-      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/darkweed.png",
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/darkweed.png"
     },
     {
       "chainId": 8217,
@@ -136,7 +136,7 @@
       "symbol": "DFKFROSTDRM",
       "name": "Frost Drum",
       "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/emojis/995161204823703613.webp?size=44&quality=lossless",
+      "logoURI": "https://cdn.discordapp.com/emojis/995161204823703613.webp?size=44&quality=lossless"
     },
     {
         "chainId": 8217,
@@ -152,7 +152,7 @@
       "symbol": "DFKMILKWEED",
       "name": "Milkweed",
       "decimals": 0,
-      "logoURI": "https://user-images.githubusercontent.com/261672/153324535-29ac114f-2683-46bf-8825-f245e56d3888.png",
+      "logoURI": "https://user-images.githubusercontent.com/261672/153324535-29ac114f-2683-46bf-8825-f245e56d3888.png"
     },
     {
       "chainId": 8217,
@@ -160,7 +160,7 @@
       "symbol": "DFKKNAPROOT",
       "name": "Knaproot",
       "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/emojis/995161208510488638.webp?size=44&quality=lossless",
+      "logoURI": "https://cdn.discordapp.com/emojis/995161208510488638.webp?size=44&quality=lossless"
     },
     {
       "chainId": 8217,
@@ -208,7 +208,7 @@
       "symbol": "DFKSPIDRFRT",
       "name": "SpiderFruit",
       "decimals": 0,
-      "logoURI": "https://user-images.githubusercontent.com/261672/153324634-69a45fbf-7e59-4ded-9cda-fa84e6307d36.png",
+      "logoURI": "https://user-images.githubusercontent.com/261672/153324634-69a45fbf-7e59-4ded-9cda-fa84e6307d36.png"
     },
     {
       "chainId": 8217,
@@ -216,7 +216,7 @@
       "symbol": "DFKSWFTHSL",
       "name": "Swift-Thistle",
       "decimals": 0,
-      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/swift-thistle.png",
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/swift-thistle.png"
     },
     {
       "chainId": 8217,
@@ -227,7 +227,7 @@
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/bloater.png"
     },
     {
-      "chainId": 53935,
+      "chainId": 8217,
       "address": "0x18cB286EeCE992f79f601E49acde1D1F5dE32a30",
       "symbol": "DFKFBLOATER",
       "name": "Frost Bloater",
@@ -280,7 +280,7 @@
       "symbol": "DFKSHIMMERSKIN",
       "name": "ShimmerSkin",
       "decimals": 0,
-      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shimmerskin.png",
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/shimmerskin.png"
     },
     {
       "chainId": 8217,
@@ -467,7 +467,7 @@
     {
       "chainId": 8217,
       "address": "0x1F93421DaE2f8de79C3Fd197a227ec5EE3Eef71b",
-      "symbol": "DFKMGHTCR",
+      "symbol": "DFKGMGHTCR",
       "name": "Greater Might Crystal",
       "decimals": 0,
       "logoURI": "https://cdn.discordapp.com/emojis/954554495130538074.gif?size=100"
@@ -568,30 +568,6 @@
       "decimals": 0,
       "logoURI": "https://cdn.discordapp.com/emojis/973975331704815668.gif?size=100"
     },
-    // {
-    //   "chainId": 8217,
-    //   "address": "0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf",
-    //   "symbol": "DFKLATONECR",
-    //   "name": "Lesser Atonement Crystal",
-    //   "decimals": 0,
-    //   "logoURI": "https://cdn.discordapp.com/emojis/954554494878896218.gif?size=100"
-    // },
-    // {
-    //   "chainId": 8217,
-    //   "address": "0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d",
-    //   "symbol": "DFKATONECR",
-    //   "name": "Atonement Crystal",
-    //   "decimals": 0,
-    //   "logoURI": "https://cdn.discordapp.com/emojis/954554494585299065.gif?size=100"
-    // },
-    // {
-    //   "chainId": 8217,
-    //   "address": "0x17f3B5240C4A71a3BBF379710f6fA66B9b51f224",
-    //   "symbol": "DFKGATONECR",
-    //   "name": "Greater Atonement Crystal",
-    //   "decimals": 0,
-    //   "logoURI": "https://cdn.discordapp.com/emojis/954554494572691478.gif?size=100"
-    // },
     {
       "chainId": 8217,
       "address": "0xf15035b5eD13Feb18f63D829ABc1c3139041e7C2",
@@ -903,7 +879,7 @@
       "name": "Greater Chaos Stone",
       "decimals": 0,
       "logoURI": "https://cdn.discordapp.com/emojis/973975331767730276.gif?size=100"
-    }
+    },
     {
       "chainId": 8217,
       "address": "0x26bdcB310313eFf8D580e43762e2020B23f3e728",
