@@ -96,7 +96,7 @@
       "symbol": "DFKGOLD",
       "name": "Gold",
       "decimals": 3,
-      "logoURI": "https://cdn.discordapp.com/emojis/925743004218712094.webp?size=44&quality=lossless"
+      "logoURI": "https://user-images.githubusercontent.com/261672/148153375-9e743be8-06f5-4853-8b6b-7259a1d627aa.png"
     },
     {
       "chainId": 8217,
@@ -104,7 +104,7 @@
       "symbol": "DFKTEARS",
       "name": "Gaia's Tears",
       "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/emojis/896230622190776340.gif?size=44&quality=lossless"
+      "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/gaias-tear.png"
     },
     {
       "chainId": 8217,

@@ -26,8 +26,8 @@
   {
     "chainId": 53935,
     "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
-    "symbol": "JEWEL",
-    "name": "Jewel",
+    "symbol": "WJEWEL",
+    "name": "Wrapped Jewel",
     "decimals": 18,
     "logoURI": "https://images-ext-1.discordapp.net/external/_eXsOjF3RcrrCb4B0KuR165z26VSlXcdT5S-8vCCHmE/https/cdn-longterm.mee6.xyz/plugins/embeds/images/861728723991527464/17ef071acc0c1432dfbbcdaf1102a76c4900922050689629110838c1e409a637.png"
   },
