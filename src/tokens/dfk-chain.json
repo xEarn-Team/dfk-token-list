@@ -456,6 +456,30 @@
   },
   {
     "chainId": 53935,
+    "address": "0xbFa812214a16EcA7814e5F5c270d7f8F37A110B5",
+    "symbol": "DFKLATONECR",
+    "name": "Lesser Atonement Crystal",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/954554494878896218.webp?size=100"
+  },
+  {
+    "chainId": 53935,
+    "address": "0xab2B495902f9A6652c382e5f289423929FFF2E65",
+    "symbol": "DFKATONECR",
+    "name": "Atonement Crystal",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/954554494585299065.webp?size=100"
+  },
+  {
+    "chainId": 53935,
+    "address": "0x3A28E0D4eCF7558e1ba7357070032C5A6105B0C2",
+    "symbol": "DFKGATONECR",
+    "name": "Greater Atonement Crystal",
+    "decimals": 0,
+    "logoURI": "https://cdn.discordapp.com/emojis/954554494572691478.webp?size=100"
+  },
+  {
+    "chainId": 53935,
     "address": "0x9d9ef1Bf6A46b8413bf6b1b54F6A7aAb53c6b1b6",
     "symbol": "DFKLFINCR",
     "name": "Lesser Finesse Crystal",

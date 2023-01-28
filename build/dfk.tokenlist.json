@@ -1,10 +1,10 @@
 {
   "name": "DFK",
-  "timestamp": "2023-01-28T08:42:07.386Z",
+  "timestamp": "2023-01-28T09:27:29.946Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 1
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media&token=729d388d-1013-4bed-a194-77ba8e53e79d",
@@ -936,6 +936,14 @@
     },
     {
       "chainId": 53935,
+      "address": "0xab2B495902f9A6652c382e5f289423929FFF2E65",
+      "symbol": "DFKATONECR",
+      "name": "Atonement Crystal",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/emojis/954554494585299065.webp?size=100"
+    },
+    {
+      "chainId": 53935,
       "address": "0x268CC8248FFB72Cd5F3e73A9a20Fa2FF40EfbA61",
       "symbol": "DFKBLOATER",
       "name": "Bloater",
@@ -1072,6 +1080,14 @@
       "name": "Fortune Stone",
       "decimals": 0,
       "logoURI": "https://cdn.discordapp.com/emojis/954554494925037608.gif?size=100"
+    },
+    {
+      "chainId": 53935,
+      "address": "0x3A28E0D4eCF7558e1ba7357070032C5A6105B0C2",
+      "symbol": "DFKGATONECR",
+      "name": "Greater Atonement Crystal",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/emojis/954554494572691478.webp?size=100"
     },
     {
       "chainId": 53935,
@@ -1325,6 +1341,14 @@
       "name": "Lantern-Eye",
       "decimals": 0,
       "logoURI": "https://dfk-hv.b-cdn.net/art-assets/items/lanterneye.png"
+    },
+    {
+      "chainId": 53935,
+      "address": "0xbFa812214a16EcA7814e5F5c270d7f8F37A110B5",
+      "symbol": "DFKLATONECR",
+      "name": "Lesser Atonement Crystal",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/emojis/954554494878896218.webp?size=100"
     },
     {
       "chainId": 53935,
